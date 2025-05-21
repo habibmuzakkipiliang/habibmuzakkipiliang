@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅ Siswa MAN 2 Kota Serang<br>✅ Kelas 11 Agama (2025)<br>✅ Angkatan ke-34 MAN 2 KOTA SERANG <br>✅ Menyukai mapel Informatika dan IPS<br>✅ Seorang Blogger di Blogspot dan Kompasiana<br>✅ Panitia Media and Fashion (Dokumentasi)<br>Acara ABG (Arena Boarding Gembira)<br>MAN 2 Kota Serang – Tahun 2025<br>✅ Pemula Front-End Developer<br>✅ Pemula Web Developer
+✅ Siswa MAN 2 Kota Serang<br>✅ Kelas 11 Agama (2025)<br>✅ Angkatan ke-34 MAN 2 KOTA SERANG<br>✅ Menyukai mapel Informatika dan IPS<br>✅ Orang Asli Minangkabau-Piliang<br>✅ Perantau dari Sumatra Barat <br>✅ Seorang Blogger di Blogspot dan Kompasiana<br>✅ Panitia Media and Fashion (Dokumentasi)<br>Acara ABG (Arena Boarding Gembira)<br>MAN 2 Kota Serang – Tahun 2025<br>✅ Pemula Front-End Developer<br>✅ Pemula Web Developer
 
 
 ## 🌐 Socials:
