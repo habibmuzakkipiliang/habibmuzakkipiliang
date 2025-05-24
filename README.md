@@ -1,5 +1,3 @@
-![Habib Muzakki Piliang](F:\FILE_CODING_KOMPUTER\A._PROJECT_WEBSITE\WEBSITE_PORTOFOLIO_PERTAMA\github-header-image.png)
-
 # 💫 About Me:
 ✅ MAN 2 Serang City Student<br>✅ 11th Grade Religion (2025)<br>✅ The 34th Class of Alvradesta MAN 2 Serang City<br>✅ Likes Informatics and Social Studies subjects<br>✅ Native Minangkabau-Piliang<br>✅ Migrant from West Sumatra<br>✅ A Blogger on Blogspot and Kompasiana<br>✅ Media and Fashion Committee (Documentation)<br>ABG Event (Arena Boarding Gembira)<br>MAN 2 Serang City – Year 2025<br>✅ Beginner Front-End Developer<br>✅ Beginner Web Developer
 
