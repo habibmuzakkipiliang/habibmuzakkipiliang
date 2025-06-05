@@ -3,10 +3,11 @@
 ![Habib Muzakki Piliang](./github-header-image%20(1).png)
 
 # 💫 About Me:
-✅ MAN 2 Serang City Student<br>✅ 11th Grade Religion (2025)<br>✅ The 34th Class of Alvradesta MAN 2 Serang City<br>✅ Likes Informatics and Social Studies subjects<br>✅ Native Minangkabau-Piliang<br>✅ Migrant from West Sumatra<br>✅ A Blogger on Blogspot and Kompasiana<br>✅ Media and Fashion Committee (Documentation)<br>ABG Event (Arena Boarding Gembira)<br>MAN 2 Serang City – Year 2025<br>✅ Beginner Front-End Developer<br>✅ Beginner Web Developer
+
+✅ MAN 2 Kota Serang Student<br> ✅ 11th Grade Religion (2025)<br> ✅ 34th Class of Alvradesta MAN 2 KOTA SERANG<br> ✅ Likes Informatics and Social Studies subjects<br> ✅ Native Minangkabau-Piliang<br> ✅ Migrant from West Sumatra<br> ✅ A novice novelist on Wattpad<br> ✅ A blogger on Blogspot and Kompasiana<br> ✅ Media and Fashion Committee (Documentation) <br>ABG Event (Arena Boarding Gembira) <br>MAN 2 Kota Serang – Year 2025<br> ✅ Beginner Front-End Developer<br> ✅ Beginner Web Developer
 
 # In Indonesia:
-✅ Siswa MAN 2 Kota Serang<br> ✅ Kelas 11 Agama (2025)<br> ✅ Angkatan ke-34 Alvradesta MAN 2 KOTA SERANG<br> ✅ Menyukai mapel Informatika dan IPS<br> ✅ Orang Asli Minangkabau-Piliang<br> ✅ Perantau dari Sumatra Barat<br> ✅ Seorang Blogger di Blogspot dan Kompasiana<br> ✅ Panitia Media and Fashion (Dokumentasi)<br> Acara ABG (Arena Boarding Gembira)<br> MAN 2 Kota Serang – Tahun 2025<br> ✅ Pemula Front-End Developer<br> ✅ Pemula Web Developer
+✅ Siswa MAN 2 Kota Serang<br> ✅ Kelas 11 Agama (2025)<br> ✅ Angkatan ke-34 Alvradesta MAN 2 KOTA SERANG<br> ✅ Menyukai mapel Informatika dan IPS<br> ✅ Orang Asli Minangkabau-Piliang<br> ✅ Perantau dari Sumatra Barat<br> ✅ Seorang Novelis pemula di Wattpad<br> ✅ Seorang Blogger di Blogspot dan Kompasiana<br> ✅ Panitia Media and Fashion (Dokumentasi) <br>Acara ABG (Arena Boarding Gembira) <br>MAN 2 Kota Serang – Tahun 2025<br> ✅ Pemula Front-End Developer<br> ✅ Pemula Web Developer
 
 
 # 🌐 Socials:
