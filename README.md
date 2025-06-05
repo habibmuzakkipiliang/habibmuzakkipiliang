@@ -1,4 +1,4 @@
-# Hello World! I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏
+# Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏
 
 ![Habib Muzakki Piliang](./github-header-image%20(1).png)
 
@@ -18,6 +18,9 @@
 # Artikel:
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+- **Karya Novel di Wattpad**: [Ghost Love in The Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
 
 
 # 💻 Tech Stack:
