@@ -14,6 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22) 
 - **Linktree**: [linktr.ee/habib_muzakki_piliang](https://linktr.ee/habib_muzakki_piliang)
 - **Threads**: [@habib_muzakki_piliang](https://www.threads.net/@habib_muzakki_piliang)
+- **LinkedIn** : [habib muzakki piliang](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 # Artikel:
