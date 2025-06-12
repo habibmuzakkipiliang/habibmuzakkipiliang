@@ -23,6 +23,7 @@
 - **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
 - **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
 - **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
 
 
 
