@@ -27,9 +27,7 @@
 ✅ A blogger on Blogspot and Kompasiana<br> 
 
 ✅ Media and Fashion Committee (Event Documentation) *Completed*
-
 <br> ABG Event (Happy Boarding Arena) *Completed*
-
 <br> MAN 2 Kota Serang – 2025<br> 
 
 ✅ Beginner Front End Developer<br> 
@@ -63,8 +61,8 @@
 
 ✅ Seorang Blogger di Blogspot dan Kompasiana<br> 
 
-✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
-
+✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*
+<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
 <br> MAN 2 Kota Serang – Tahun 2025<br> 
 
 ✅ Pemula Front End Developer<br> 
