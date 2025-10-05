@@ -13,7 +13,7 @@
 
 * * *
 
-# Programming Languages ​​Currently Being Studied:
+# Programming language (Coding) currently being studied (Full Stack Developer) :
 
 → **Main for Front End and Back End (Required):**
 
@@ -35,7 +35,7 @@
 
 * * *
 
-# Bahasa Pemrograman yang sedang dipelajari saat ini :
+# Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer):
 
 → **Utama untuk Front End dan Back End (Wajib) :**
 
