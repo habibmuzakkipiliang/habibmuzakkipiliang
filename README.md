@@ -4,12 +4,74 @@
 ![Habib Muzakki Piliang](./logo%20habib.jpg)
 
 # 💫 About Me:
-✅ MAN 2 Serang City Student<br>✅ Class 12 Religion (2025)<br> ✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br> ✅ OSN-S Informatics (2025) *Completed and passed*<br>✅ OSN-K Informatics (2025) *Completed*<br> ✅ Current school status (2025): PP (Round Trip) to home, no longer living in a Boarding School (Boarding House).<br> ✅ Likes Informatics (Computer) and Social Studies subjects<br> ✅ Minangkabau-Piliang Native<br> ✅ Migrant from West Sumatra<br> ✅ A Beginner Novelist (Novel Writer) on Wattpad<br> ✅ A blogger on Blogspot and Kompasiana<br> ✅ Media and Fashion Committee (Event Documentation) *Completed*<br> ABG Event (Happy Boarding Arena) *Completed*<br> MAN 2 Kota Serang – 2025<br> ✅ Beginner Front End Developer<br> ✅ Beginner Full Stack Developer<br> ✅ Beginner Web Developer
+✅ MAN 2 Serang City Student<br>
+
+✅ Class 12 Religion (2025)<br> 
+
+✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br> 
+
+✅ OSN-S Informatics (2025) *Completed and passed*<br>
+
+✅ OSN-K Informatics (2025) *Completed*<br> 
+
+✅ Current school status (2025): PP (Round Trip) to home, no longer living in a Boarding School (Boarding House).<br> 
+
+✅ Likes Informatics (Computer) and Social Studies subjects<br> 
+
+✅ Minangkabau-Piliang Native<br> 
+
+✅ Migrant from West Sumatra<br> 
+
+✅ A Beginner Novelist (Novel Writer) on Wattpad<br> 
+
+✅ A blogger on Blogspot and Kompasiana<br> 
+
+✅ Media and Fashion Committee (Event Documentation) *Completed*
+
+<br> ABG Event (Happy Boarding Arena) *Completed*
+
+<br> MAN 2 Kota Serang – 2025<br> 
+
+✅ Beginner Front End Developer<br> 
+
+✅ Beginner Full Stack Developer<br> 
+
+✅ Beginner Web Developer
 
 * * *
 
 # In Indonesia:
-✅ Siswa MAN 2 Kota Serang<br> ✅ Kelas 12 Agama (2025)<br> ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> ✅ OSN-S Informatika (2025) *Telah selesai dan lolos*<br> ✅ OSN-K Informatika (2025) *Telah Selesai dilaksanakan*<br> ✅ Status sekolah saat ini (2025): PP (Pulang Pergi) ke rumah, bukan tinggal di Boarding School (Asrama) lagi.<br> ✅ Menyukai mapel Informatika (Komputer) dan IPS<br> ✅ Orang Asli Minangkabau-Piliang<br> ✅ Perantau dari Sumatra Barat<br> ✅ Seorang Novelis (Penulis Novel) pemula di Wattpad<br> ✅ Seorang Blogger di Blogspot dan Kompasiana<br> ✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*<br> MAN 2 Kota Serang – Tahun 2025<br> ✅ Pemula Front End Developer<br> ✅ Pemula Full Stack Developer<br> ✅ Pemula Web Developer
+✅ Siswa MAN 2 Kota Serang<br> 
+
+✅ Kelas 12 Agama (2025)<br> 
+
+✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
+
+✅ OSN-S Informatika (2025) *Telah selesai dan lolos*<br> 
+
+✅ OSN-K Informatika (2025) *Telah Selesai dilaksanakan*<br> 
+
+✅ Status sekolah saat ini (2025): PP (Pulang Pergi) ke rumah, bukan tinggal di Boarding School (Asrama) lagi.<br> 
+
+✅ Menyukai mapel Informatika (Komputer) dan IPS<br> 
+
+✅ Orang Asli Minangkabau-Piliang<br> 
+
+✅ Perantau dari Sumatra Barat<br> 
+
+✅ Seorang Novelis (Penulis Novel) pemula di Wattpad<br> 
+
+✅ Seorang Blogger di Blogspot dan Kompasiana<br> 
+
+✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
+
+<br> MAN 2 Kota Serang – Tahun 2025<br> 
+
+✅ Pemula Front End Developer<br> 
+
+✅ Pemula Full Stack Developer<br> 
+
+✅ Pemula Web Developer
 
 * * *
 
