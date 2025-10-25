@@ -4,35 +4,37 @@
 ![Habib Muzakki Piliang](./logo%20habib.jpg)
 
 # 💫 About Me:
-✅ MAN 2 Serang City Student<br>
+✅ Students of MAN 2 Kota Serang<br>
 
-✅ Class 12 Religion (2025)<br> 
+✅ Grade 12 Religion (2025)<br>
 
-✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br> 
+✅ 34th Class of ASCENDRIA MAN 2 KOTA SERANG<br>
 
 ✅ OSN-S Informatics (2025) *Completed and passed*<br>
 
-✅ OSN-K Informatics (2025) *Completed*<br> 
+✅ OSN-K Informatics (2025) *Completed and only reached the city level*<br>
 
-✅ Current school status (2025): PP (Round Trip) to home, no longer living in a Boarding School (Boarding House).<br> 
+✅ Part of Generation Z (Gen Z)
 
-✅ Likes Informatics (Computer) and Social Studies subjects<br> 
+✅ Current school status (2025) is PP (round-trip) from home, no longer living in a boarding school (dormitory) after 2 years of living in the dormitory.
 
-✅ Minangkabau-Piliang Native<br> 
+✅ Enjoys Computer Science and Social Studies<br>
 
-✅ Migrant from West Sumatra<br> 
+✅ Native Minangkabau-Piliang<br>
 
-✅ A Beginner Novelist (Novel Writer) on Wattpad<br> 
+✅ Migrant from West Sumatra<br>
 
-✅ A blogger on Blogspot and Kompasiana<br> 
+✅ A novice novelist (novel writer) on Wattpad<br>
 
-✅ Media and Fashion Committee (Event Documentation) *Completed*
-<br> ABG Event (Happy Boarding Arena) *Completed*
-<br> MAN 2 Kota Serang – 2025<br> 
+✅ A blogger on Blogspot and Kompasiana<br>
 
-✅ Beginner Front End Developer<br> 
+✅ Media and Fashion Committee (Event Documentation *Completed*)
+<br> ABG (Happy Boarding Arena) Event *Completed*
+<br> MAN 2 Kota Serang – 2025<br>
 
-✅ Beginner Full Stack Developer<br> 
+✅ Beginner Front End Developer<br>
+
+✅ Beginner Full Stack Developer<br>
 
 ✅ Beginner Web Developer
 
@@ -47,9 +49,11 @@
 
 ✅ OSN-S Informatika (2025) *Telah selesai dan lolos*<br> 
 
-✅ OSN-K Informatika (2025) *Telah Selesai dilaksanakan*<br> 
+✅ OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja*<br> 
 
-✅ Status sekolah saat ini (2025): PP (Pulang Pergi) ke rumah, bukan tinggal di Boarding School (Asrama) lagi.<br> 
+✅ Bagian dari Generasi Z (Gen Z)
+
+✅ Status sekolah saat ini (tahun 2025) adalah PP (pulang-pergi) dari rumah, tidak lagi tinggal di boarding school (asrama) setelah 2 tahun menetap di asrama. 
 
 ✅ Menyukai mapel Informatika (Komputer) dan IPS<br> 
 
