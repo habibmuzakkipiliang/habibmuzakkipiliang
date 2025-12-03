@@ -89,11 +89,11 @@
 
 ✅ Basic JavaScript (Front End)
 
-✅ Basic Python (Back End, AI, and Machine Learning)
+✅ Basic Python (Basic Programming, Back End, AI, and Machine Learning)
 
 * * *
 
-→ **Basic logic only and not required to be learned:**
+→ **Only the basics of programming and logic and are not mandatory to learn ::**
 
 ✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
 
