@@ -43,7 +43,7 @@
 # In Indonesia:
 ✅ Siswa MAN 2 Kota Serang<br> 
 
-✅ Kelas 12 Agama (2025)<br> 
+✅ Kelas 12 Agama (2026)<br> 
 
 ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
 
