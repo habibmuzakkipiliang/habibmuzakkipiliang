@@ -6,7 +6,7 @@
 # 💫 About Me:
 ✅ Students of MAN 2 Kota Serang<br>
 
-✅ Grade 12 Religion (2025)<br>
+✅ Grade 12 Religion (2026)<br>
 
 ✅ 34th Class of ASCENDRIA MAN 2 KOTA SERANG<br>
 
