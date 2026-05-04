@@ -1,12 +1,11 @@
 # Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏
 
 ![Habib Muzakki Piliang](./github-header-image%20(1).png)
-![Habib Muzakki Piliang](./logo%20habib.jpg)
 
 # 💫 About Me:
-✅ Students of MAN 2 Kota Serang<br>
+✅ Alumni of MAN 2 Serang City<br>
 
-✅ Grade 12 Religion (2026)<br>
+✅ Alumni of 12 Religions (2026)<br>
 
 ✅ 34th Class of ASCENDRIA MAN 2 KOTA SERANG<br>
 
@@ -41,9 +40,9 @@
 * * *
 
 # In Indonesia:
-✅ Siswa MAN 2 Kota Serang<br> 
+✅ Alumni MAN 2 Kota Serang<br> 
 
-✅ Kelas 12 Agama (2026)<br> 
+✅ Alumni 12 Agama (2026)<br> 
 
 ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
 
