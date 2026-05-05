@@ -137,6 +137,7 @@
 - **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
 - **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
 - **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)
+- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)
 
 * * *
 
