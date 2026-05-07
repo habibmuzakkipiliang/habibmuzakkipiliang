@@ -3,9 +3,9 @@
 ![Habib Muzakki Piliang](github-header-banner.png)
 
 # 💫 About Me:
-✅ Alumni of MAN 2 Serang City<br>
+✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
 
-✅ Alumni of 12 Religions (2026)<br>
+✅ Alumni of Class 12 Religion (Graduated 2026)<br>
 
 ✅ 34th Class of ASCENDRIA MAN 2 KOTA SERANG<br>
 
@@ -42,7 +42,7 @@
 # In Indonesia:
 ✅ Alumni MAN 2 Kota Serang<br> 
 
-✅ Alumni 12 Agama (2026)<br> 
+✅ Alumni Kelas 12 Agama (2026)<br> 
 
 ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
 
