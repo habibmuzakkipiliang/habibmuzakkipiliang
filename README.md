@@ -1,6 +1,6 @@
 # Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏
 
-![Habib Muzakki Piliang](./github-header-image%20(1).png)
+![Habib Muzakki Piliang](github-header-banner.png)
 
 # 💫 About Me:
 ✅ Alumni of MAN 2 Serang City<br>
