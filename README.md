@@ -40,9 +40,9 @@
 * * *
 
 # In Indonesia:
-✅ Alumni MAN 2 Kota Serang<br> 
+✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
 
-✅ Alumni Kelas 12 Agama (2026)<br> 
+✅ Alumni Kelas 12 Agama (Lulus 2026)<br> 
 
 ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
 
