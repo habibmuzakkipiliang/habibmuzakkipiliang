@@ -76,6 +76,91 @@
 
 * * *
 
+
+**Idol Enthusiast (Wota and Fans)**
+-------------------------------
+
+**Favorite Idol Group: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
+--------------------------------------------------------------------
+
+**Oshi (Favorite Member) below:**
+
+1\. Michie JKT48 (MAIN)
+
+2\. Fritzy JKT48 (MAIN)
+
+3\. Anindya JKT48 (MAIN)
+
+4\. Christy JKT48 (MAIN)
+
+5\. Carmen Hearts2Hearts (H2H) (MAIN)
+
+6\. Freya JKT48
+
+7\. Olla JKT48
+
+8\. Jessi JKT48
+
+9\. Fiony JKT48
+
+10\. Muthe JKT48
+
+11\. Marsha JKT48
+
+12\. Eli JKT48
+
+13\. Mikaela JKT48 (Mikaela Kusjanto)
+
+14\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+
+15\. Yui Oguri (AKB48)
+
+16\. Endo Rino (Rain Tree)
+
+* * *
+
+**Idol Enthusiast (Wota dan Fans)**
+-----------------------------------
+
+**Grup Idol Favorit: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
+----------------------------------------------------------------------
+
+**Oshi (Member Favorit) dibawah ini  :**
+
+1\. Michie JKT48 (UTAMA)
+
+2\. Fritzy JKT48 (UTAMA)
+
+3\. Anindya JKT48 (UTAMA)
+
+4\. Christy JKT48 (UTAMA)
+
+5\. Carmen Hearts2Hearts (H2H) (UTAMA)
+
+6\. Freya JKT48
+
+7\. Olla JKT48
+
+8\. Jessi JKT48
+
+9\. Fiony JKT48
+
+10\. Muthe JKT48
+
+11\. Marsha JKT48
+
+12\. Eli JKT48
+
+13\. Mikaela JKT48 (Mikaela Kusjanto)
+
+14\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+
+15\. Yui Oguri (AKB48)
+
+16\. Endo Rino (Rain Tree)
+
+* * *
+
 # Programming language (Coding) currently being studied (Full Stack Developer) :
 
 → **Main for Front End and Back End (Required):**
