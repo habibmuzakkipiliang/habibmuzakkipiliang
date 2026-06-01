@@ -76,7 +76,6 @@
 
 * * *
 
-
 **Idol Enthusiast (Wota and Fans)**
 -------------------------------
 
@@ -97,35 +96,36 @@
 
 6\. Christy JKT48 (MAIN)
 
-7\. Carmen Hearts2Hearts (H2H) (MAIN)
+7\. Celine Ex JKT48 (MAIN)
 
-8\. Freya JKT48 (MAIN)
+8\. Carmen Hearts2Hearts (H2H) (MAIN)
 
-9\. Olla JKT48
+9\. Freya JKT48 (MAIN)
 
-10\. Jessi JKT48
+10\. Olla JKT48
 
-11\. Fiony JKT48
+11\. Jessi JKT48
 
-12\. Muthe JKT48
+12\. Fiony JKT48
 
-13\. Marsha JKT48
+13\. Muthe JKT48
 
-14\. Eli JKT48
+14\. Marsha JKT48
 
-15\. Mikaela JKT48 (Mikaela Kusjanto)
+15\. Eli JKT48
 
-16\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+16\. Mikaela JKT48 (Mikaela Kusjanto)
 
-17\. Yui Oguri (AKB48)
+17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-18\. Endo Rino (Rain Tree)
+18\. Yui Oguri (AKB48)
 
+19\. Endo Rino (Rain Tree)
 
 * * *
 
 
-**Idol Enthusiast (Wota dan Fans)**
+S**Idol Enthusiast (Wota dan Fans)**
 -----------------------------------
 
 **Grup Idol Favorit: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
@@ -145,29 +145,31 @@
 
 6\. Christy JKT48 (UTAMA)
 
-7\. Carmen Hearts2Hearts (H2H) (UTAMA)
+7\. Celine Eks JKT48 (UTAMA)
 
-8\. Freya JKT48 (UTAMA)
+8\. Carmen Hearts2Hearts (H2H) (UTAMA)
 
-9\. Olla JKT48
+9\. Freya JKT48 (UTAMA)
 
-10\. Jessi JKT48
+10\. Olla JKT48
 
-11\. Fiony JKT48
+11\. Jessi JKT48
 
-12\. Muthe JKT48
+12\. Fiony JKT48
 
-13\. Marsha JKT48
+13\. Muthe JKT48
 
-14\. Eli JKT48
+14\. Marsha JKT48
 
-15\. Mikaela JKT48 (Mikaela Kusjanto)
+15\. Eli JKT48
 
-16\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+16\. Mikaela JKT48 (Mikaela Kusjanto)
 
-17\. Yui Oguri (AKB48)
+17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-18\. Endo Rino (Rain Tree)
+18\. Yui Oguri (AKB48)
+
+19\. Endo Rino (Rain Tree)
 
 
 * * *
