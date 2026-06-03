@@ -125,7 +125,7 @@
 * * *
 
 
-S**Idol Enthusiast (Wota dan Fans)**
+**Idol Enthusiast (Wota dan Fans)**
 -----------------------------------
 
 **Grup Idol Favorit: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
