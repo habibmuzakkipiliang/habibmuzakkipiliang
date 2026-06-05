@@ -88,9 +88,9 @@
 
 2\. Gracie JKT48 (MAIN)
 
-3\. Fritzy JKT48 (MAIN)
+3\. Lily JKT48 (MAIN)
 
-4\. Lily JKT48 (MAIN)
+4\. Fritzy JKT48 (MAIN)
 
 5\. Anindya JKT48 (MAIN)
 
@@ -137,9 +137,9 @@
 
 2\. Gracie JKT48 (UTAMA)
 
-3\. Fritzy JKT48 (UTAMA)
+3\. Lily JKT48 (UTAMA)
 
-4\. Lily JKT48 (UTAMA)
+4\. Fritzy JKT48 (UTAMA)
 
 5\. Anindya JKT48 (UTAMA)
 
