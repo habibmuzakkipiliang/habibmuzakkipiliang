@@ -39,7 +39,7 @@
 
 * * *
 
-# Tentang saya (In Indonesia):
+# Tentang Saya (In Indonesia):
 
 
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
