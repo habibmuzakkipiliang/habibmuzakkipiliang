@@ -2,7 +2,7 @@
 
 ![Habib Muzakki Piliang](github-header-banner.png)
 
-# 💫 About Me:
+# 💫 About Me (In English):
 ✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
 
 ✅ Alumni of Class 12 Religion (Graduated 2026)<br>
@@ -39,7 +39,9 @@
 
 * * *
 
-# In Indonesia:
+# Tentang saya (In Indonesia):
+
+
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
 
 ✅ Alumni Kelas 12 Agama (Lulus 2026)<br> 
@@ -73,6 +75,7 @@
 ✅ Pemula Full Stack Developer<br> 
 
 ✅ Pemula Web Developer
+
 
 * * *
 
