@@ -118,9 +118,11 @@
 
 17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-18\. Yui Oguri (AKB48)
+18\. Intan JKT48 (Nur Intan)
 
-19\. Endo Rino (Rain Tree)
+19\. Yui Oguri (AKB48)
+
+20\. Endo Rino (Rain Tree)
 
 * * *
 
@@ -167,9 +169,11 @@
 
 17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-18\. Yui Oguri (AKB48)
+18\. Intan JKT48 (Nur Intan)
 
-19\. Endo Rino (Rain Tree)
+19\. Yui Oguri (AKB48)
+
+20\. Endo Rino (Rain Tree)
 
 
 * * *
