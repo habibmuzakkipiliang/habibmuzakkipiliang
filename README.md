@@ -2,7 +2,7 @@
 
 ![Habib Muzakki Piliang](github-header-banner.png)
 
-# 💫 About Me (In English):
+# **💫 About Me (In English)**:
 ✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
 
 ✅ Alumni of Class 12 Religion (Graduated 2026)<br>
@@ -39,7 +39,7 @@
 
 * * *
 
-# Tentang Saya (In Indonesia):
+# **Tentang Saya (In Indonesia)**:
 
 
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
@@ -78,6 +78,10 @@
 
 
 * * *
+
+<summary><h1><b>My Hobby : Idol Enthusiast (Wota and Fans)</b></h1></summary>
+
+<details>
 
 **Idol Enthusiast (Wota and Fans)**
 -------------------------------
@@ -126,9 +130,13 @@
 19\. Yui Oguri (AKB48)
 
 20\. Endo Rino (Rain Tree)
+</details>
 
 * * *
 
+<summary><h1><b>Hobi saya : Idol Enthusiast (Wota dan Fans)</b></h1></summary>
+
+<details>
 
 **Idol Enthusiast (Wota dan Fans)**
 -----------------------------------
@@ -177,11 +185,11 @@
 19\. Yui Oguri (AKB48)
 
 20\. Endo Rino (Rain Tree)
-
+</details>
 
 * * *
 
-# Programming language (Coding) currently being studied (Full Stack Developer) :
+# **Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 → **Main for Front End and Back End (Required):**
 
@@ -203,7 +211,7 @@
 
 * * *
 
-# Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer):
+# **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
 → **Utama untuk Front End dan Back End (Wajib) :**
 
@@ -223,9 +231,20 @@
 
 ✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
 
+
 * * *
 
-# 🌐 Socials:
+
+# **💻 Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+* * *
+
+# **🌐 Socials:**
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
@@ -235,7 +254,7 @@
 
 * * *
 
-# Artikel:
+# **Artikel:**
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
 - **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
@@ -248,32 +267,24 @@
 
 * * *
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-
-# 📊 GitHub Stats:
+# **📊 GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=habibmuzakkipiliang&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=habibmuzakkipiliang&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibmuzakkipiliang&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 * * *
 
-# 🏆 GitHub Trophies
+# **🏆 GitHub Trophies**
 ![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 * * *
 
-# ✍️ Random Dev Quote
+# **✍️ Random Dev Quote**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 * * *
 
-# 🔝 Top Contributed Repo
+# **🔝 Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
