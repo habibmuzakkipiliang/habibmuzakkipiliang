@@ -245,12 +245,13 @@
 * * *
 
 # **🌐 Socials:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
 [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
 [![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
 
 * * *
 
