@@ -1,4 +1,4 @@
-# Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏
+# **Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏**
 
 ![Habib Muzakki Piliang](github-header-banner.png)
 
@@ -81,6 +81,136 @@
 
 ✅ Pemula Web Developer
 </details>
+
+* * *
+
+# **Programming language (Coding) currently being studied (Full Stack Developer)** :
+
+<details>
+
+→ **Main for Front End and Back End (Required):**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (CSS Framework)
+
+✅ Basic JavaScript (Front End)
+
+✅ Basic Python (Basic Programming, Back End, AI, and Machine Learning)
+
+* * *
+
+→ **Only the basics of programming and logic and are not mandatory to learn ::**
+
+✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
+</details>
+
+* * *
+
+# **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+
+<details>
+
+→ **Utama untuk Front End dan Back End (Wajib) :**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (Framework CSS)
+
+✅ JavaScript dasar (Front End)
+
+✅ Python dasar (Back End, AI, dan Machine Learning)
+
+* * *
+
+→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
+
+✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
+</details>
+
+* * *
+
+
+# **💻 Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+* * *
+
+# **🌐 Socials:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
+[![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
+
+* * *
+
+# **My Project and Exercice Code (Project saya dan Latihan Coding)**
+
+<details>
+
+- **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
+- **Website Awal (Portfolio)**: [https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
+- **Website Portfolio Futuristik**: [Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
+- **Website Futuristik Baru V2**: [Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
+- **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+- **Website Landing Page**: [Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+- **Belajar Coding Try**: [Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
+- **Laporan OWASP ZAP CyberSecurity**: [Laporan OWASP ZAP CyberSecurity](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+</details>
+
+* * *
+
+# **Artikel:**
+
+<details>
+
+- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
+- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
+- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
+- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)
+- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)
+</details>
+
+* * *
+
+# **📊 GitHub Stats:**
+![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+* * *
+
+# **🏆 GitHub Trophies**
+![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+* * *
+
+# **✍️ Random Dev Quote**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+* * *
+
+# **🔝 Top Contributed Repo**
+![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 * * *
 
@@ -193,116 +323,6 @@
 </details>
 
 * * *
-
-# **Programming language (Coding) currently being studied (Full Stack Developer)** :
-
-<details>
-
-→ **Main for Front End and Back End (Required):**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (CSS Framework)
-
-✅ Basic JavaScript (Front End)
-
-✅ Basic Python (Basic Programming, Back End, AI, and Machine Learning)
-
-* * *
-
-→ **Only the basics of programming and logic and are not mandatory to learn ::**
-
-✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
-</details>
-
-* * *
-
-# **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
-
-<details>
-
-→ **Utama untuk Front End dan Back End (Wajib) :**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (Framework CSS)
-
-✅ JavaScript dasar (Front End)
-
-✅ Python dasar (Back End, AI, dan Machine Learning)
-
-* * *
-
-→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
-
-✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
-</details>
-
-* * *
-
-
-# **💻 Tech Stack:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-* * *
-
-# **🌐 Socials:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
-[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
-[![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
-
-* * *
-
-# **Artikel:**
-
-<details>
-
-- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
-- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
-- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
-- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
-- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)
-- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)
-</details>
-
-* * *
-
-# **📊 GitHub Stats:**
-![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-* * *
-
-# **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-* * *
-
-# **✍️ Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-* * *
-
-# **🔝 Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
