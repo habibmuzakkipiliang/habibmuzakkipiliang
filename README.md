@@ -191,6 +191,8 @@
 
 # **Programming language (Coding) currently being studied (Full Stack Developer)** :
 
+<details>
+
 → **Main for Front End and Back End (Required):**
 
 ✅ HTML (HyperText Markup Language)
@@ -208,10 +210,13 @@
 → **Only the basics of programming and logic and are not mandatory to learn ::**
 
 ✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
+</details>
 
 * * *
 
 # **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+
+<details>
 
 → **Utama untuk Front End dan Back End (Wajib) :**
 
@@ -230,7 +235,7 @@
 → **Hanya dasar logika saja dan tidak wajib dipelajari :**
 
 ✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
-
+</details>
 
 * * *
 
@@ -256,6 +261,9 @@
 * * *
 
 # **Artikel:**
+
+<details>
+
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
 - **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
@@ -265,18 +273,19 @@
 - **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
 - **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)
 - **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)
+</details>
 
 * * *
 
 # **📊 GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=habibmuzakkipiliang&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=habibmuzakkipiliang&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=habibmuzakkipiliang&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=habibmuzakkipiliang&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibmuzakkipiliang&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 * * *
 
 # **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 * * *
 
