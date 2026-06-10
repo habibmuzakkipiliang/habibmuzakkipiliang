@@ -79,7 +79,7 @@
 
 * * *
 
-<summary><h1><b>My Hobby : Idol Enthusiast (Wota and Fans)</b></h1></summary>
+<summary><h1><b>🎵 My Personal Hobbies & JKT48 Oshi List</b></h1></summary>
 
 <details>
 
@@ -134,7 +134,7 @@
 
 * * *
 
-<summary><h1><b>Hobi saya : Idol Enthusiast (Wota dan Fans)</b></h1></summary>
+<summary><h1><b>🎵 Hobi Personal Saya & Daftar Oshi JKT48</b></h1></summary>
 
 <details>
 
