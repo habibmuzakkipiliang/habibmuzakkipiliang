@@ -9,11 +9,11 @@
 
 - **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
-- **Website Awal (Portfolio)**: [https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
 
 - **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
 
-- **Website Portfolio Futuristik**: [Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
 
 - **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
 
@@ -27,17 +27,17 @@
 
 - **Desain Website Awal Tes 1**: [Klik Desain Website Awal Tes 1](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_BOOTSTRAP.html)
 
-- **Desain Website Awal Tes 2**: [Desain Website Awal Tes 2](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._Struktur_Bootstrap.html)
+- **Desain Website Awal Tes 2**: [Klik Desain Website Awal Tes 2](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._Struktur_Bootstrap.html)
 
 - **Desain Website Awal Tes 3**: [Klik Desain Website Awal Tes 3](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_1.html)
 
 - **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
 
-- **Website Landing Page**: [Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+- **Website Landing Page**: [Klik Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
  
-- **Belajar Coding Try**: [Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
+- **Belajar Coding Try**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
-- **Laporan OWASP ZAP CyberSecurity Hacking**: [Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+- **Laporan OWASP ZAP CyberSecurity, Hacking, Hacker**: [Klik Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 </details>
 
 * * *
