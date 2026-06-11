@@ -2,6 +2,46 @@
 
 ![Habib Muzakki Piliang](github-header-banner.png)
 
+
+# **My Project and Exercice Coding (Project saya dan Latihan Coding)**
+
+<details>
+
+- **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
+
+- **Website Awal (Portfolio)**: [https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+
+- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
+
+- **Website Portfolio Futuristik**: [Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+
+- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
+
+- **Website Futuristik Baru V2**: [Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
+
+- **Formulir Contact Bootstrap**: [Klik Formulir Contact Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Contact_Bootstrap.html)
+
+- **Web login dengan Bootstrap**: [Kllik Web login dengan Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Login_Bootstrap.html)
+
+- **Formulir Pendaftaran Sederhana**: [Klik Formulir Pendaftaran Sederhana](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Pendaftaran_Sederhana.html)
+
+- **Desain Website Awal Tes 1**: [Klik Desain Website Awal Tes 1](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_BOOTSTRAP.html)
+
+- **Desain Website Awal Tes 2**: [Desain Website Awal Tes 2](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._Struktur_Bootstrap.html)
+
+- **Desain Website Awal Tes 3**: [Klik Desain Website Awal Tes 3](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_1.html)
+
+- **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+
+- **Website Landing Page**: [Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+ 
+- **Belajar Coding Try**: [Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
+
+- **Laporan OWASP ZAP CyberSecurity Hacking**: [Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+</details>
+
+* * *
+
 # **💫 About Me (In English)**:
 
 <details>
@@ -155,37 +195,27 @@
 
 * * *
 
-# **My Project and Exercice Code (Project saya dan Latihan Coding)**
-
-<details>
-
-- **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
-- **Website Awal (Portfolio)**: [https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
-- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
-- **Website Portfolio Futuristik**: [Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
-- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
-- **Website Futuristik Baru V2**: [Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
-- **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
-- **Website Landing Page**: [Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
-- **Belajar Coding Try**: [Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
-- **Laporan OWASP ZAP CyberSecurity**: [Laporan OWASP ZAP CyberSecurity](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
-</details>
-
-* * *
-
 # **Artikel:**
 
 <details>
 
 - **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
+
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+
 - **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+
 - **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
 - **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
 - **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
-- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)
-- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)
-- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)
+
+- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)<br>
+
+- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)<br>
+
+- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
 </details>
 
 * * *
