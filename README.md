@@ -6,6 +6,7 @@
 # **My Project and Exercice Coding (Project saya dan Latihan Coding)**
 
 <details>
+<br>
 
 - **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
@@ -53,6 +54,7 @@
 # **💫 About Me (In English)**:
 
 <details>
+<br>
 
 ✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
 
@@ -94,6 +96,7 @@
 # **Tentang Saya (In Indonesia)**:
 
 <details>
+<br>
 
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
 
@@ -135,6 +138,7 @@
 # **Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
+<br>
 
 → **Main for Front End and Back End (Required):**
 
@@ -160,6 +164,7 @@
 # **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
 <details>
+<br>
 
 → **Utama untuk Front End dan Back End (Wajib) :**
 
