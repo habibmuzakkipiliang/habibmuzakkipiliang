@@ -17,7 +17,7 @@
 
 - **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
 
-- **Website Futuristik Baru V2**: [Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
+- **Website Futuristik Baru V2**: [Klik Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
 
 - **Formulir Contact Bootstrap**: [Klik Formulir Contact Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Contact_Bootstrap.html)
 
@@ -37,7 +37,7 @@
 
 - **Repo Website Tugas Prakarya 2**: [Klik Repo Website Tugas Prakarya 2](https://github.com/habibmuzakkipiliang/tugas_prakarya_makanan_daerah_indonesia)
 
-- **Website Tugas Prakarya 2**: [Website Tugas Prakarya 2](https://habib-muzakki-kelas-12-agama.vercel.app/)
+- **Website Tugas Prakarya 2**: [Klik Website Tugas Prakarya 2](https://habib-muzakki-kelas-12-agama.vercel.app/)
 
 - **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
 
