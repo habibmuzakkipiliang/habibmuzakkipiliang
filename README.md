@@ -31,11 +31,19 @@
 
 - **Desain Website Awal Tes 3**: [Klik Desain Website Awal Tes 3](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_1.html)
 
+- **Repo Website Tugas Prakarya 1**: [Klik Repo Website Tugas Prakarya](https://github.com/habibmuzakkipiliang/tugas_website_sendiri_khusus_prakarya)
+
+- **Website Tugas Prakarya 1**: [Klik Website Tugas Prakarya](https://website-prakarya-habib-muzakki.vercel.app/)
+
+- **Repo Website Tugas Prakarya 2**: [Klik Repo Website Tugas Prakarya 2](https://github.com/habibmuzakkipiliang/tugas_prakarya_makanan_daerah_indonesia)
+
+- **Website Tugas Prakarya 2**: [Website Tugas Prakarya 2](https://habib-muzakki-kelas-12-agama.vercel.app/)
+
 - **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
 
 - **Website Landing Page**: [Klik Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
  
-- **Belajar Coding Try**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
+- **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
 - **Laporan OWASP ZAP CyberSecurity, Hacking, Hacker**: [Klik Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 </details>
