@@ -148,9 +148,9 @@
 
 ✅ Bootstrap (CSS Framework)
 
-✅ Basic JavaScript (Front End)
+✅ Basic JavaScript (Front End Web)
 
-✅ Basic Python (Basic Programming, Back End, AI, and Machine Learning)
+✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
 
 * * *
 
@@ -174,9 +174,9 @@
 
 ✅ Bootstrap (Framework CSS)
 
-✅ JavaScript dasar (Front End)
+✅ JavaScript dasar (Front End Web)
 
-✅ Python dasar (Back End, AI, dan Machine Learning)
+✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)
 
 * * *
 
