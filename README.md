@@ -269,9 +269,9 @@
 
 **Oshi (Favorite Member) below:**
 
-1\. Michie JKT48 (MAIN)
+1\. Gracie JKT48 (MAIN) 
 
-2\. Gracie JKT48 (MAIN)
+2\. Michie JKT48 (MAIN)
 
 3\. Lily JKT48 (MAIN)
 
@@ -324,9 +324,9 @@
 
 **Oshi (Member Favorit) dibawah ini  :**
 
-1\. Michie JKT48 (UTAMA)
+1\. Gracie JKT48 (UTAMA) 
 
-2\. Gracie JKT48 (UTAMA)
+2\. Michie JKT48 (MAIN)
 
 3\. Lily JKT48 (UTAMA)
 
