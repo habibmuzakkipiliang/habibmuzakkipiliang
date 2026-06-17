@@ -92,6 +92,7 @@
 </details>
 
 * * *
+<br>
 
 # **Tentang Saya (In Indonesia)**:
 
@@ -134,6 +135,7 @@
 </details>
 
 * * *
+<br>
 
 # **Programming language (Coding) currently being studied (Full Stack Developer)** :
 
@@ -160,6 +162,7 @@
 </details>
 
 * * *
+<br>
 
 # **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
@@ -186,7 +189,7 @@
 </details>
 
 * * *
-
+<br>
 
 # **💻 Tech Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
@@ -196,6 +199,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 * * *
+<br>
 
 # **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
@@ -205,31 +209,6 @@
 [![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
-
-* * *
-
-# **Artikel:**
-
-<details>
-
-- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-
-- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
-
-- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
-
-- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)<br>
-
-- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)<br>
-
-- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
-</details>
 
 * * *
 
@@ -256,8 +235,35 @@
 ![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 * * *
+<br>
 
-<summary><h1><b>🎵 My Personal Hobbies & JKT48 Oshi List</b></h1></summary>
+# **Artikel:**
+
+<details>
+
+- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
+
+- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+
+- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
+
+- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)<br>
+
+- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)<br>
+
+- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
+</details>
+
+* * *
+<br>
+
+# **🎵 My Personal Hobbies & JKT48 Oshi List**
 
 <details>
 
@@ -311,8 +317,9 @@
 </details>
 
 * * *
+<br>
 
-<summary><h1><b>🎵 Hobi Personal Saya & Daftar Oshi JKT48</b></h1></summary>
+# **🎵 Hobi Personal Saya & Daftar Oshi JKT48**
 
 <details>
 
