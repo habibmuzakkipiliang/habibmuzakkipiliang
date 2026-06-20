@@ -42,7 +42,7 @@
 
 - **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
 
-- **Website Landing Page**: [Klik Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+- **Website Landing Page**: [Klik Vercel Landing Page](https://landing-page-awal-habib.vercel.app/)
  
 - **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
