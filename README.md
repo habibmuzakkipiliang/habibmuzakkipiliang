@@ -3,10 +3,12 @@
 ![Habib Muzakki Piliang](github-header-banner.png)
 
 
-# **My Project and Exercise Coding (Project saya dan Latihan Coding)**
+# **My Project and Exercice Coding (Project saya dan Latihan Coding)**
 
 <details>
 <br>
+
+## **SMA MAN** :
 
 - **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
@@ -45,6 +47,14 @@
 - **Website Landing Page**: [Klik Vercel Landing Page](https://landing-page-awal-habib.vercel.app/)
  
 - **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
+
+- **Repo Latihan JavaScript Sederhana 2**: [Klik Latihan JavaScript Sederhana 2*](https://github.com/habibmuzakkipiliang/Latihan_JavaScript_Sederhana)
+
+- **Repo Latihan Python Sederhana 2**: [Klik Latihan Python Sederhan 2](https://github.com/habibmuzakkipiliang/Latihan_Python_Sederhana)
+
+- **Repo Mini Project Python (Aplikasi Kalkulator)**: [Klik Mini Project Python](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_Python)
+
+- **Repo Mini Project JavaScript (Aplikasi Kalkulator)**: [Klik Mini Project JavaScript](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_JavaScript)
 
 - **Laporan OWASP ZAP CyberSecurity, Hacking, Hacker**: [Klik Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 </details>
