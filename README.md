@@ -3,7 +3,7 @@
 ![Habib Muzakki Piliang](github-header-banner.png)
 
 
-# **My Project and Exercice Coding (Project saya dan Latihan Coding)**
+# **My Project and Exercise Coding (Project saya dan Latihan Coding)**
 
 <details>
 <br>
