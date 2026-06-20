@@ -91,9 +91,9 @@
 - Sertifikat CyberSecurity : Introduction to Information Security Course oleh Cyber Academy 2025
 
 - Sertifikat LULUS pelatihan Penggunaan Tools Artificial Intilegence untuk
-Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA
+Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA tahun 2026
 
-- Sertifikat LULUS pelatihan Penggunaan Tools Artificial Intilegence yaitu Daftar Unit Kompetensi yang Dicapai untuk Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA
+- Sertifikat LULUS pelatihan Penggunaan Tools Artificial Intilegence yaitu Daftar Unit Kompetensi yang Dicapai untuk Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA tahun 2026
 
 - Sertifikat DQLab Bootcamp IT : Introduction to Data Science with Python tahun 2025
 
@@ -124,6 +124,7 @@ Win Research Competitions on 18-21 November 2024, By Cakapriset
 
 - Sertifikat completing Module 1: Developing Ideas and Designing Competition
 Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
+
 </details>
 
 * * *
