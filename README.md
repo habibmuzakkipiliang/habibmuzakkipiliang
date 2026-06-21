@@ -68,6 +68,8 @@
 <details>
 <br>
 
+# **Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
+
 - Piagam Penghargaan Medali Emas : RSCI (Ramadhan Science Competition Indonesia) Informatika 2025
 
 - Piagam Penghargaan Medali Perak : IOS (Indonesia Olympiad of Indonesia) Informatika 2025
@@ -76,9 +78,9 @@
 
 - Piagam Penghargaan Finalis OSN-K Informatika tahun 2025
 
-- Sertifikat Kompetensi Special Skill Bootcamp IT Pemrograman Python tahun 2026
+- Sertifikat Kompetensi Special Skill Indonesia Bootcamp IT Pemrograman Python tahun 2026
 
-- Sertifikat Kompetensi Special Skill Bootcamp IT Pemrograman Python 2 tahun 2026
+- Sertifikat Kompetensi Special Skill Indonesia Bootcamp IT Pemrograman Python 2 tahun 2026
 
 - EXCELLENT GRADE Kickstart Fullstack Web Development Journey by Rakamin Academy Bootcamp IT tahun 2024
 
