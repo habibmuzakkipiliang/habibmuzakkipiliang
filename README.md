@@ -414,14 +414,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 **Oshi (Member Favorit) dibawah ini  :**
 
-**Idol Enthusiast (Wota dan Fans)**
------------------------------------
-
-**Grup Idol Favorit: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
-----------------------------------------------------------------------
-
-**Oshi (Member Favorit) dibawah ini  :**
-
 1\. Gracie JKT48 (UTAMA)
 
 2\. Michie JKT48 (UTAMA)
@@ -463,6 +455,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 20\. Yui Oguri (AKB48)
 
 21\. Endo Rino (Rain Tree)
+
 </details>
 
 * * *
