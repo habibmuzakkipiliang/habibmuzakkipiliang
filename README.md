@@ -72,7 +72,7 @@
 
 - Piagam Penghargaan Medali Perak : IOS (Indonesia Olympiad of Indonesia) Informatika 2025
 
-- Piagam Penghargaan Medali Perunggu : SSO (Superstas Science Olympiad) Informatika 2025
+- Piagam Penghargaan Medali Perunggu : SSO (Superstar Science Olympiad) Informatika 2025
 
 - Piagam Penghargaan Finalis OSN-K Informatika tahun 2025
 
