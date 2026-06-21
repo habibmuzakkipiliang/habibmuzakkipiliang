@@ -68,8 +68,6 @@
 <details>
 <br>
 
-# **Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
-
 - Piagam Penghargaan Medali Emas : RSCI (Ramadhan Science Competition Indonesia) Informatika 2025
 
 - Piagam Penghargaan Medali Perak : IOS (Indonesia Olympiad of Indonesia) Informatika 2025
