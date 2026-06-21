@@ -362,39 +362,41 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 3\. Lily JKT48 (MAIN)
 
-4\. Fritzy JKT48 (MAIN)
+4\. Aralie JKT48 (MAIN)
 
-5\. Anindya JKT48 (MAIN)
+5\. Fritzy JKT48 (MAIN)
 
-6\. Christy JKT48 (MAIN)
+6\. Anindya JKT48 (MAIN)
 
-7\. Celine Ex JKT48 (MAIN)
+7\. Christy JKT48 (MAIN)
 
-8\. Carmen Hearts2Hearts (H2H) (MAIN)
+8\. Celine Ex JKT48 (MAIN)
 
-9\. Freya JKT48 (MAIN)
+9\. Carmen Hearts2Hearts (H2H) (MAIN)
 
-10\. Olla JKT48
+10\. Freya JKT48 (MAIN)
 
-11\. Jessi JKT48
+11\. Olla JKT48
 
-12\. Fiony JKT48
+12\. Jessi JKT48
 
-13\. Muthe JKT48
+13\. Fiony JKT48
 
-14\. Marsha JKT48
+14\. Muthe JKT48
 
-15\. Eli JKT48
+15\. Marsha JKT48
 
-16\. Mikaela JKT48 (Mikaela Kusjanto)
+16\. Eli JKT48
 
-17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+17\. Mikaela JKT48 (Mikaela Kusjanto)
 
-18\. Intan JKT48 (Nur Intan)
+18\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-19\. Yui Oguri (AKB48)
+19\. Intan JKT48 (Nur Intan)
 
-20\. Endo Rino (Rain Tree)
+20\. Yui Oguri (AKB48)
+
+21\. Endo Rino (Rain Tree)
 </details>
 
 * * *
@@ -412,45 +414,55 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 **Oshi (Member Favorit) dibawah ini  :**
 
-1\. Gracie JKT48 (UTAMA) 
+**Idol Enthusiast (Wota dan Fans)**
+-----------------------------------
 
-2\. Michie JKT48 (MAIN)
+**Grup Idol Favorit: JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree**
+----------------------------------------------------------------------
+
+**Oshi (Member Favorit) dibawah ini  :**
+
+1\. Gracie JKT48 (UTAMA)
+
+2\. Michie JKT48 (UTAMA)
 
 3\. Lily JKT48 (UTAMA)
 
-4\. Fritzy JKT48 (UTAMA)
+4\. Aralie JKT48 (UTAMA)
 
-5\. Anindya JKT48 (UTAMA)
+5\. Fritzy JKT48 (UTAMA)
 
-6\. Christy JKT48 (UTAMA)
+6\. Anindya JKT48 (UTAMA)
 
-7\. Celine Eks JKT48 (UTAMA)
+7\. Christy JKT48 (UTAMA)
 
-8\. Carmen Hearts2Hearts (H2H) (UTAMA)
+8\. Celine Eks JKT48 (UTAMA)
 
-9\. Freya JKT48 (UTAMA)
+9\. Carmen Hearts2Hearts (H2H) (UTAMA)
 
-10\. Olla JKT48
+10\. Freya JKT48 (UTAMA)
 
-11\. Jessi JKT48
+11\. Olla JKT48
 
-12\. Fiony JKT48
+12\. Jessi JKT48
 
-13\. Muthe JKT48
+13\. Fiony JKT48
 
-14\. Marsha JKT48
+14\. Muthe JKT48
 
-15\. Eli JKT48
+15\. Marsha JKT48
 
-16\. Mikaela JKT48 (Mikaela Kusjanto)
+16\. Eli JKT48
 
-17\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+17\. Mikaela JKT48 (Mikaela Kusjanto)
 
-18\. Intan JKT48 (Nur Intan)
+18\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-19\. Yui Oguri (AKB48)
+19\. Intan JKT48 (Nur Intan)
 
-20\. Endo Rino (Rain Tree)
+20\. Yui Oguri (AKB48)
+
+21\. Endo Rino (Rain Tree)
 </details>
 
 * * *
