@@ -8,7 +8,7 @@
 <details>
 <br>
 
-## **SMA MAN** :
+## **Pas di SMA (MAN)** :
 
 - **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
