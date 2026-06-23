@@ -10,7 +10,7 @@
 
 ## **Pas di SMA (MAN)** :
 
-- **Repo Website Awal (Portfolio)**: [Klik Repo](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
+- **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
 - **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
 
