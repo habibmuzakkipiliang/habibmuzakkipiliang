@@ -18,13 +18,13 @@
 
 - **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
 
-- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
+- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
 
-- **Website Futuristik Baru V2**: [Klik Vercel 2](https://website-futuristik-versi-2-baru.vercel.app/)
+- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
 
 - **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [Klik Repo LATIHAN BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
 
-- **Website Bikin Profil Habib Muzakki Piliang**: [Klik Website Bikin Profil](https://bikin-profil-sederhana-html.vercel.app/)
+- **WEBSITE BIKIN PROFIL HABIB MUZAKKI PILIANG**: [Klik Website Bikin Profil](https://bikin-profil-sederhana-html.vercel.app/)
 
 - **Formulir Contact Bootstrap**: [Klik Formulir Contact Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Contact_Bootstrap.html)
 
