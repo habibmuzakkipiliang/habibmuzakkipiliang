@@ -3,12 +3,10 @@
 ![Habib Muzakki Piliang](github-header-banner.png)
 
 
-# **My Project and Exercice Coding (Project saya dan Latihan Coding)**
+# **👨🏻‍💻 My Main Project Portfolio (Project Portofolio Utama saya)**
 
 <details>
 <br>
-
-## **Pas di SMA (MAN)** :
 
 - **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
@@ -21,6 +19,18 @@
 - **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
 
 - **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
+
+</details>
+
+***
+<br>
+
+# **👨🏻‍💻 My Project and Exercice Coding (Project saya dan Latihan Coding)**
+
+<details>
+<br>
+
+## **Pas di SMA (MAN)** :
 
 - **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [Klik Repo LATIHAN BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
 
@@ -67,7 +77,7 @@
 <br>
 
 
-# **Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
+# **🎖️ Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
 
 <details>
 <br>
@@ -136,7 +146,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **💫 About Me (In English)**:
+# **ℹ️ About Me (In English)**:
 
 <details>
 <br>
@@ -179,7 +189,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **Tentang Saya (In Indonesia)**:
+# **ℹ️ Tentang Saya (In Indonesia)**:
 
 <details>
 <br>
@@ -222,7 +232,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **Programming language (Coding) currently being studied (Full Stack Developer)** :
+# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
 <br>
@@ -249,7 +259,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
 <details>
 <br>
@@ -276,7 +286,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **💻 Tech Stack:**
+# **💻 Prgramming Language (Bahasa Pemrograman atau Coding):**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
@@ -286,7 +297,18 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **🌐 Socials:**
+# **⚙️ Tools (Alat)**:
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
+
+***
+<br>
+
+# **🌐 Media Social:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
 [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
