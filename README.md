@@ -286,7 +286,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **💻 Prgramming Language (Bahasa Pemrograman atau Coding):**
+# **💻 Programming Language (Bahasa Pemrograman atau Coding):**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
