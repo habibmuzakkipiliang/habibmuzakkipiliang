@@ -163,7 +163,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Alumni of Class 12 Religion (Graduated 2026)<br>
 
-✅ 34th Class of ASCENDRIA MAN 2 KOTA SERANG<br>
+✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br>
 
 ✅ OSN-S Informatics (2025) *Completed and passed*<br>
 
