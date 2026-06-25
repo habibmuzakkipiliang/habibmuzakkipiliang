@@ -34,9 +34,13 @@
 
 ## **Pas di SMA (MAN)** :
 
-- **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [Klik Repo LATIHAN BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
+- **REPO LATIHAN WEBSITE HTML DASAR**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
 
-- **WEBSITE BIKIN PROFIL HABIB MUZAKKI PILIANG**: [Klik Website Bikin Profil](https://bikin-profil-sederhana-html.vercel.app/)
+- **LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK WEBSITE HTML DASAR VERCEL](https://latihan-html-dasar.vercel.app/)
+
+- **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK REPO BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
+
+- **WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL*](https://bikin-profil-sederhana-html.vercel.app/)
 
 - **Formulir Contact Bootstrap**: [Klik Formulir Contact Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Contact_Bootstrap.html)
 
