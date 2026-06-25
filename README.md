@@ -33,6 +33,7 @@
 <br>
 
 ## **Pas di SMA (MAN)** :
+<br>
 
 - **REPO LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
 
@@ -89,6 +90,7 @@
 <br>
 
 ## **Pas di SMA (MAN)** :
+<br>
 
 - Piagam Penghargaan Medali Emas : RSCI (Ramadhan Science Competition Indonesia) Informatika 2025
 
