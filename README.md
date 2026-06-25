@@ -187,11 +187,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br> ABG (Happy Boarding Arena) Event *Completed*
 <br> MAN 2 Kota Serang – 2025<br>
 
-✅ Beginner Front End Developer<br>
+✅ Aspiring Front End Developer<br>
 
-✅ Beginner Full Stack Developer<br>
+✅ Aspiring Full Stack Developer<br>
 
-✅ Beginner Web Developer
+✅ Aspiring Web Developer
 </details>
 
 * * *
@@ -230,11 +230,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
 <br> MAN 2 Kota Serang – Tahun 2025<br> 
 
-✅ Pemula Front End Developer<br> 
+✅ Calon Front End Developer<br> 
 
-✅ Pemula Full Stack Developer<br> 
+✅ Calon Full Stack Developer<br> 
 
-✅ Pemula Web Developer
+✅ Calon Web Developer
 </details>
 
 * * *
