@@ -34,7 +34,7 @@
 
 ## **Pas di SMA (MAN)** :
 
-- **REPO LATIHAN WEBSITE HTML DASAR**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
+- **REPO LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
 
 - **LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK WEBSITE HTML DASAR VERCEL](https://latihan-html-dasar.vercel.app/)
 
