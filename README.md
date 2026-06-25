@@ -41,7 +41,7 @@
 
 - **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK REPO BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
 
-- **WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL*](https://bikin-profil-sederhana-html.vercel.app/)
+- **WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL](https://bikin-profil-sederhana-html.vercel.app/)
 
 - **Formulir Contact Bootstrap**: [Klik Formulir Contact Bootstrap](https://habibmuzakkipiliang.github.io/website_portofolio_awal/Formulir_Contact_Bootstrap.html)
 
