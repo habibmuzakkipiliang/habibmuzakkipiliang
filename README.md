@@ -35,6 +35,10 @@
 ## **Pas di SMA (MAN)** :
 <br>
 
+- **Repo LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK LATIHAN HTML JAVASCRIPT DASAR 1](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_JAVASCRIPT_DASAR_1)
+
+- **WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1](https://latihan-html-javascript-dasar-1.vercel.app/)
+
 - **REPO LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
 
 - **LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK WEBSITE HTML DASAR VERCEL](https://latihan-html-dasar.vercel.app/)
