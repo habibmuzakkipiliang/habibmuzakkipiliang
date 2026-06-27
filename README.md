@@ -35,6 +35,10 @@
 ## **Pas di SMA (MAN)** :
 <br>
 
+- **REPO WEBSITE HEWAN YANG SUDAH PUNAH**: [KLIK REPO WEBSITE HEWAN YANG SUDAH PUNAH](https://github.com/habibmuzakkipiliang/A._HEWAN_PUNAH)
+
+- **WEBSITE HEWAN YANG SUDAH PUNAH**: [KLIK WEBSITE HEWAN YANG SUDAH PUNAH](https://hewan-yang-sudah-punah-dalam-sejara.vercel.app/)
+
 - **Repo LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK LATIHAN HTML JAVASCRIPT DASAR 1](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_JAVASCRIPT_DASAR_1)
 
 - **WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1](https://latihan-html-javascript-dasar-1.vercel.app/)
