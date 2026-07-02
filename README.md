@@ -416,37 +416,40 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 5\. Fritzy JKT48 (MAIN)
 
-6\. Anindya JKT48 (MAIN)
+6\. Lana JKT48 (MAIN)
 
-7\. Christy JKT48 (MAIN)
+7\. Anindya JKT48 (MAIN)
 
-8\. Celine Ex JKT48 (MAIN)
+8\. Christy JKT48 (MAIN)
 
-9\. Carmen Hearts2Hearts (H2H) (MAIN)
+9\. Celine Ex JKT48 (MAIN)
 
-10\. Freya JKT48 (MAIN)
+10\. Carmen Hearts2Hearts (H2H) (MAIN)
 
-11\. Olla JKT48
+11\. Freya JKT48 (MAIN)
 
-12\. Jessi JKT48
+12\. Olla JKT48
 
-13\. Fiony JKT48
+13\. Jessi JKT48
 
-14\. Muthe JKT48
+14\. Fiony JKT48
 
-15\. Marsha JKT48
+15\. Muthe JKT48
 
-16\. Eli JKT48
+16\. Marsha JKT48
 
-17\. Mikaela JKT48 (Mikaela Kusjanto)
+17\. Eli JKT48
 
-18\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+18\. Mikaela JKT48 (Mikaela Kusjanto)
 
-19\. Intan JKT48 (Nur Intan)
+19\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-20\. Yui Oguri (AKB48)
+20\. Intan JKT48 (Nur Intan)
 
-21\. Endo Rino (Rain Tree)
+21\. Yui Oguri (AKB48)
+
+22\. Endo Rino (Rain Tree)
+
 </details>
 
 * * *
@@ -474,37 +477,39 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 5\. Fritzy JKT48 (UTAMA)
 
-6\. Anindya JKT48 (UTAMA)
+6\. Lana JKT48 (UTAMA)
 
-7\. Christy JKT48 (UTAMA)
+7\. Anindya JKT48 (UTAMA)
 
-8\. Celine Eks JKT48 (UTAMA)
+8\. Christy JKT48 (UTAMA)
 
-9\. Carmen Hearts2Hearts (H2H) (UTAMA)
+9\. Celine Eks JKT48 (UTAMA)
 
-10\. Freya JKT48 (UTAMA)
+10\. Carmen Hearts2Hearts (H2H) (UTAMA)
 
-11\. Olla JKT48
+11\. Freya JKT48 (UTAMA)
 
-12\. Jessi JKT48
+12\. Olla JKT48
 
-13\. Fiony JKT48
+13\. Jessi JKT48
 
-14\. Muthe JKT48
+14\. Fiony JKT48
 
-15\. Marsha JKT48
+15\. Muthe JKT48
 
-16\. Eli JKT48
+16\. Marsha JKT48
 
-17\. Mikaela JKT48 (Mikaela Kusjanto)
+17\. Eli JKT48
 
-18\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+18\. Mikaela JKT48 (Mikaela Kusjanto)
 
-19\. Intan JKT48 (Nur Intan)
+19\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-20\. Yui Oguri (AKB48)
+20\. Intan JKT48 (Nur Intan)
 
-21\. Endo Rino (Rain Tree)
+21\. Yui Oguri (AKB48)
+
+22\. Endo Rino (Rain Tree)
 
 </details>
 
