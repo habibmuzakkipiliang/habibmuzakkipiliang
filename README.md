@@ -27,7 +27,34 @@
 ***
 <br>
 
-# **👨🏻‍💻 My Project and Exercice Coding (Project saya dan Latihan Coding)**
+
+# **📜Crafting Senior High School journeys and JKT48 fandom through code (Merajut kisah (SMA) dan dunia JKT48 lewat kode)**
+
+<details>
+<br>
+
+## **NETLIFY**:
+
+<br>
+
+- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi-jkt48.netlify.app/)
+ 
+- **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
+
+- **Cerita pengalaman ujian praktek renang**:[KLIK DONG UJIAN PRAKTEK RENANG](https://cerita-pengalaman-renang-aqualand.netlify.app/)
+
+- **Jadwal Ujian Praktek dan Tulis**: [KLIK DONG JADWAL PRAKTEK DAN TULIS](https://jadwal-ujian-sekolah-ujian-praktek.netlify.app/) 
+ 
+- **Kenangan di MAN 2 KOTA SERANG**: [KLIK DONG KENANGAN SEKOLAH MAN 2 KOTA SERANG](https://kenangan-sekolah-man-2-kota-serang.netlify.app/)
+
+- **Riwayat Pendidikan**: [KLIK DONG RIWAYAT PENDIDIKAN](https://riwayat-pendidikan-habib-muzakki.netlify.app/) 
+
+</details>
+
+***
+<br>
+
+# **👨🏻‍💻 My Projects and Coding Practice (Project saya dan Latihan Coding)**
 
 <details>
 <br>
