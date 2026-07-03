@@ -211,7 +211,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Part of Generation Z (Gen Z)
 
-✅ Current school status (2025) is PP (round-trip) from home, no longer living in a boarding school (dormitory) after 2 years of living in the dormitory.
+✅ Former school status: from 2025 to 2026 (April 15th) it was PP (round trip) from home, no longer living in boarding school (dormitory) after 2 years (2023 - 2025) of living in the dormitory.
 
 ✅ Enjoys Computer Science and Social Studies<br>
 
@@ -254,7 +254,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Bagian dari Generasi Z (Gen Z)
 
-✅ Status sekolah saat ini (tahun 2025) adalah PP (pulang-pergi) dari rumah, tidak lagi tinggal di boarding school (asrama) setelah 2 tahun menetap di asrama. 
+✅ Status sekolah dulu : saat di tahun 2025 hingga 2026 (15 april) adalah PP (pulang-pergi) dari rumah, tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama. 
 
 ✅ Menyukai mapel Informatika (Komputer) dan IPS<br> 
 
