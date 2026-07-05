@@ -42,7 +42,11 @@
 - **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
 
 - **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
- 
+
+- **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
+
+- **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
+
 - **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
 
 - **Cerita pengalaman ujian praktek renang**:[KLIK DONG UJIAN PRAKTEK RENANG](https://cerita-pengalaman-renang-aqualand.netlify.app/)
