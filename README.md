@@ -342,7 +342,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **🤖 AI IDE Coding and Others (AI IDE Coding dan Lainnya):**
+# **🤖 AI Agentic IDE Coding (AI Agentic IDE Coding):**
 ![Trae AI IDE](https://img.shields.io/badge/Trae%20AI-00E699.svg?style=for-the-badge&logo=data:image/png;base64,PASTE_KODE_BASE64_DISINI&logoColor=black)
 ![Cursor AI IDE](https://img.shields.io/badge/Cursor%20AI-1e1e1e.svg?style=for-the-badge&logo=data:image/png;base64,PASTE_KODE_BASE64_DISINI&logoColor=white)
 
