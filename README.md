@@ -58,6 +58,8 @@
 
 - **Riwayat Pendidikan**: [KLIK DONG RIWAYAT PENDIDIKAN](https://riwayat-pendidikan-habib-muzakki.netlify.app/) 
 
+- **KAUM HAWARIYYUN (12 MURID NABI ISA AS)**: [KLIK DONGKAUM HAWARIYYUN (12 MURID NABI ISA AS)](https://murid-nabi-isa-hawariyyun.netlify.app/)
+
 </details>
 
 ***
