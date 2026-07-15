@@ -210,6 +210,10 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <details>
 <br>
 
+✅ **Harkat Negeri University of Tegal, Center Java**
+
+✅ **D4 Vocational Informatics Engineering**
+
 ✅ **Year of Birth : 2007 (Gen Z Core)**
 
 ✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
@@ -256,6 +260,10 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 <details>
 <br>
+
+✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**
+
+✅ **D4 Vokasi Teknik Informatika**
 
 ✅ **Tahun Lahir : 2007 (Gen Z Inti)**
 
