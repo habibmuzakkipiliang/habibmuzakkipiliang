@@ -212,6 +212,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **Year of Birth : 2007 (Gen Z Core)**
 
+✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
+
 ✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
 
 ✅ Alumni of Class 12 Religion (Graduated 2026)<br>
@@ -256,6 +258,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br>
 
 ✅ **Tahun Lahir : 2007 (Gen Z Inti)**
+
+✅ **Domisili (tempat tinggal) : Kota Serang, Provinsi Banten, Indonesia**
 
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
 
