@@ -238,9 +238,9 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Migrant from West Sumatra<br>
 
-✅ A Beginner Novelist (Novel Writer) on Wattpad<br>
+✅ A Beginner from 0 Novelist (Novel Writer) on Wattpad<br>
 
-✅ A Beginner Blogger on Blogspot and Kompasiana<br>
+✅ A Beginner from 0 Bloggers on Blogspot and Kompasiana<br>
 
 ✅ Media and Fashion Committee (Event Documentation *Completed*)
 <br> ABG (Happy Boarding Arena) Event *Completed*
@@ -289,9 +289,9 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Perantau dari Sumatra Barat<br> 
 
-✅ Seorang Pemula Novelis (Penulis Novel) di Wattpad<br> 
+✅ Seorang Pemula dari 0 Novelis (Penulis Novel) di Wattpad<br> 
 
-✅ Seorang Pemula Blogger di Blogspot dan Kompasiana<br> 
+✅ Seorang Pemula dari 0 Blogger di Blogspot dan Kompasiana<br> 
 
 ✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*
 <br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
