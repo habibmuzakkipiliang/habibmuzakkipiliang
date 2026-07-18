@@ -10,6 +10,8 @@
 <details>
 <br>
 
+- **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+
 - **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
 
 - **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
@@ -127,8 +129,6 @@
 - **Repo Mini Project Python (Aplikasi Kalkulator)**: [Klik Mini Project Python](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_Python)
 
 - **Repo Mini Project JavaScript (Aplikasi Kalkulator)**: [Klik Mini Project JavaScript](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_JavaScript)
-
-- **Laporan OWASP ZAP CyberSecurity, Hacking, Hacker**: [Klik Laporan OWASP ZAP CyberSecurity Hacking](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 </details>
 
 * * *
