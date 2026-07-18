@@ -238,9 +238,13 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Migrant from West Sumatra<br>
 
+✅ Idol Enthusiast (Wota and Fans) JKT48<br>
+
 ✅ A Beginner from 0 Novelist (Novel Writer) on Wattpad<br>
 
 ✅ A Beginner from 0 Bloggers on Blogspot and Kompasiana<br>
+
+✅ A Beginner from 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
 
 ✅ Media and Fashion Committee (Event Documentation *Completed*)
 <br> ABG (Happy Boarding Arena) Event *Completed*
@@ -250,7 +254,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Aspiring Full Stack Developer<br>
 
-✅ Aspiring Web Developer
+✅ Aspiring Web Developer <br>
 </details>
 
 * * *
@@ -289,9 +293,13 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Perantau dari Sumatra Barat<br> 
 
+✅ Idol Enthusiast (Wota and Fans) JKT48<br>
+
 ✅ Seorang Pemula dari 0 Novelis (Penulis Novel) di Wattpad<br> 
 
 ✅ Seorang Pemula dari 0 Blogger di Blogspot dan Kompasiana<br> 
+
+✅ Seorang Pemula dari 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
 
 ✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*
 <br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
@@ -301,7 +309,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Calon Full Stack Developer<br> 
 
-✅ Calon Web Developer
+✅ Calon Web Developer <br>
 </details>
 
 * * *
