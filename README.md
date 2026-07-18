@@ -361,9 +361,16 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **🤖 AI Agentic IDE Coding (AI Agentic IDE Coding):**
+# **🤖 AI Agentic IDE Coding Tools (AI Agentic IDE Coding Tools):**
 ![Trae AI IDE](https://img.shields.io/badge/Trae%20AI-00E699.svg?style=for-the-badge&logo=data:image/png;base64,PASTE_KODE_BASE64_DISINI&logoColor=black)
 ![Cursor AI IDE](https://img.shields.io/badge/Cursor%20AI-1e1e1e.svg?style=for-the-badge&logo=data:image/png;base64,PASTE_KODE_BASE64_DISINI&logoColor=white)
+
+***
+<br>
+
+
+# **🕵 Beginner Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
+![OWASP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
 
 ***
 <br>
