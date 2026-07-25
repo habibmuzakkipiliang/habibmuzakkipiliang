@@ -377,7 +377,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br>
 
 
-# **🕵 Beginner Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
+# **🕵 Aspiring Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
 ![OWASP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
 
 ***
