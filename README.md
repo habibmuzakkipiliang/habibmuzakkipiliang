@@ -418,6 +418,70 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
+# **📜Crafting Senior High School journeys and JKT48 fandom through code (Merajut kisah (SMA) dan dunia JKT48 lewat kode)**
+
+<details>
+<br>
+
+## **NETLIFY DAN VERCEL**:
+
+<br>
+
+- **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
+
+- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi-jkt48.netlify.app/)
+
+- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
+
+- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
+
+- **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
+
+- **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
+
+- **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
+
+- **Cerita pengalaman ujian praktek renang**:[KLIK DONG UJIAN PRAKTEK RENANG](https://cerita-pengalaman-renang-aqualand.netlify.app/)
+
+- **Jadwal Ujian Praktek dan Tulis**: [KLIK DONG JADWAL PRAKTEK DAN TULIS](https://jadwal-ujian-sekolah-ujian-praktek.netlify.app/) 
+ 
+- **Kenangan di MAN 2 KOTA SERANG**: [KLIK DONG KENANGAN SEKOLAH MAN 2 KOTA SERANG](https://kenangan-sekolah-man-2-kota-serang.netlify.app/)
+
+- **Riwayat Pendidikan**: [KLIK DONG RIWAYAT PENDIDIKAN](https://riwayat-pendidikan-habib-muzakki.netlify.app/) 
+
+- **KAUM HAWARIYYUN (12 MURID NABI ISA AS)**: [KLIK DONG KAUM HAWARIYYUN (12 MURID NABI ISA AS)](https://murid-nabi-isa-hawariyyun.netlify.app/)
+
+</details>
+
+***
+<br>
+
+# **📑 Artikel:**
+
+<details>
+
+- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
+
+- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
+
+- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
+
+- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
+
+- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)<br>
+
+- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)<br>
+
+- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
+</details>
+
+* * *
+<br>
+
 # **🎵 My Personal Hobbies & JKT48 Oshi List**
 
 <details>
@@ -535,71 +599,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 22\. Endo Rino (Rain Tree)
 
-</details>
-
-* * *
-<br>
-
-
-# **📜Crafting Senior High School journeys and JKT48 fandom through code (Merajut kisah (SMA) dan dunia JKT48 lewat kode)**
-
-<details>
-<br>
-
-## **NETLIFY DAN VERCEL**:
-
-<br>
-
-- **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
-
-- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi-jkt48.netlify.app/)
-
-- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
-
-- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
-
-- **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
-
-- **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
-
-- **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
-
-- **Cerita pengalaman ujian praktek renang**:[KLIK DONG UJIAN PRAKTEK RENANG](https://cerita-pengalaman-renang-aqualand.netlify.app/)
-
-- **Jadwal Ujian Praktek dan Tulis**: [KLIK DONG JADWAL PRAKTEK DAN TULIS](https://jadwal-ujian-sekolah-ujian-praktek.netlify.app/) 
- 
-- **Kenangan di MAN 2 KOTA SERANG**: [KLIK DONG KENANGAN SEKOLAH MAN 2 KOTA SERANG](https://kenangan-sekolah-man-2-kota-serang.netlify.app/)
-
-- **Riwayat Pendidikan**: [KLIK DONG RIWAYAT PENDIDIKAN](https://riwayat-pendidikan-habib-muzakki.netlify.app/) 
-
-- **KAUM HAWARIYYUN (12 MURID NABI ISA AS)**: [KLIK DONG KAUM HAWARIYYUN (12 MURID NABI ISA AS)](https://murid-nabi-isa-hawariyyun.netlify.app/)
-
-</details>
-
-***
-<br>
-
-# **📑 Artikel:**
-
-<details>
-
-- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-
-- **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
-
-- **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in the Code: Cinta Antara Bug dan Doa](https://www.wattpad.com/story/395495837-ghost-love-in-the-code-cinta-antara-bug-dan-doa?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in Java](https://www.wattpad.com/story/395648296-ghost-love-in-java?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=habib_muzakki)
-
-- **Karya Novel di Wattpad**: [Ghost Love in Java : The Sequel - Cinta di Dunia](https://www.wattpad.com/story/395760661-ghost-love-in-java-the-sequel-cinta-di-dunia)
-
-- **Karya Novel di Wattpad**: [Cinta di Bawah Langit Menteng: Habib Muzakki & Hantu Noni Belanda Cathy](https://www.wattpad.com/story/395895687-cinta-di-bawah-langit-menteng-habib-muzakki-hantu)<br>
-
-- **Karya Novel di Wattpad**: [Cinta Gak Harus Jadian: True Love Ala OSN](https://www.wattpad.com/story/397162907-cinta-gak-harus-jadian-true-love-ala-osn)<br>
-
-- **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
 </details>
 
 * * *
