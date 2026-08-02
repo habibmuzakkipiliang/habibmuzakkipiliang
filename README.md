@@ -479,12 +479,55 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 - **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
 </details>
 
+---
+<br>
+
+# **My Personal Hobbies : Waifu (Wibu Anime) Enthuasiast**
+------------------------------------
+
+<details>
+<br>
+
+1\. Yamada (Behind the Supermarket with You)
+
+2\. Reze (The Chainsaw Man)
+
+3\. Makima (The Chainsaw Man)
+
+4\. Power (The Chainsaw Man)
+
+5\. Hutao (The Genshin Impact)
+</details>
+
+
 * * *
+<br>
+
+
+# **Hobi Personal : Waifu (Wibu Anime) Enthuasiast**
+------------------------------------
+
+<details>
+<br>
+
+1\. Yamada (Behind the Supermarket with You)
+
+2\. Reze (The Chainsaw Man)
+
+3\. Makima (The Chainsaw Man)
+
+4\. Power (The Chainsaw Man)
+
+5\. Hutao (The Genshin Impact)
+</details>
+
+---
 <br>
 
 # **🎵 My Personal Hobbies & JKT48 Oshi List**
 
 <details>
+<br>
 
 **Idol Enthusiast (Wota and Fans)**
 -------------------------------
@@ -546,6 +589,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 # **🎵 Hobi Personal Saya & Daftar Oshi JKT48**
 
 <details>
+<br>
 
 **Idol Enthusiast (Wota dan Fans)**
 -----------------------------------
