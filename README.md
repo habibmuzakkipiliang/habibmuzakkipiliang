@@ -497,6 +497,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 4\. Power (The Chainsaw Man)
 
 5\. Hutao (The Genshin Impact)
+
 </details>
 
 
@@ -519,6 +520,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 4\. Power (The Chainsaw Man)
 
 5\. Hutao (The Genshin Impact)
+
 </details>
 
 ---
