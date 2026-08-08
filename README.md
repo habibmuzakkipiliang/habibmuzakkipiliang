@@ -10,7 +10,7 @@
 <details>
 <br>
 
-- **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/
+- **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
 - **4 Wanita Cantik di Zaman Tiongkok Kuno**: [4 Wanita Cantik di Zaman Tiongkok Kuno](https://4-wanita-cantik-zaman-tiongkok-kuno.netlify.app/)
 
