@@ -12,6 +12,8 @@
 
 - **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
+- **Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
+
 - **4 Wanita Cantik di Zaman Tiongkok Kuno**: [KLIK 4 Wanita Cantik di Zaman Tiongkok Kuno](https://4-wanita-cantik-zaman-tiongkok-kuno.netlify.app/)
 
 - **Sejarah Dinasti dan Era Tiongkok (Cina)**: [KLIK Sejarah Dinasti dan Era Tiongkok (Cina)](https://sejarah-dinasti-dan-era-tiongkok-cina.netlify.app/)
