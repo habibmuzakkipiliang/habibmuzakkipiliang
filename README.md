@@ -18,6 +18,8 @@
 
 - **Sejarah Dinasti dan Era Tiongkok (Cina)**: [KLIK Sejarah Dinasti dan Era Tiongkok (Cina)](https://sejarah-dinasti-dan-era-tiongkok-cina.netlify.app/)
 
+- **Karakter Game Seri Dynasty Warriors (Kisah Tiga Negara Samkok)**: [KLIK Karakter Game Seri Dynasty Warriors (Kisah Tiga Negara Samkok)](https://karakter-game-seri-dynasty-warriors.netlify.app/)
+
 - **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
 
 - **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
