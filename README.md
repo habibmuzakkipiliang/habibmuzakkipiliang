@@ -18,6 +18,10 @@
 
 - **Sejarah Dinasti dan Era Tiongkok (Cina)**: [KLIK Sejarah Dinasti dan Era Tiongkok (Cina)](https://sejarah-dinasti-dan-era-tiongkok-cina.netlify.app/)
 
+- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
+
+- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
+
 - **REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://github.com/habibmuzakkipiliang/PROJECT_FANDOM_THE_SMURF_2021_SENDIRI)
  
 - **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
@@ -436,10 +440,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 - **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
 
 - **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi-jkt48.netlify.app/)
-
-- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
-
-- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
 
 - **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
 
