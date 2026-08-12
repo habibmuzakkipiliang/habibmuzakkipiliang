@@ -505,7 +505,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <details>
 <br>
 
-1\. Yamada (Behind the Supermarket with You)
+1\. Tifa Lockhart (Final Fantasy)
 
 2\. Reze (The Chainsaw Man)
 
@@ -513,7 +513,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 4\. Power (The Chainsaw Man)
 
-5\. Hutao (The Genshin Impact)
+5\. Aerith (Final Fantasy)
+
+6\. Yamada (Behind the Supermarket with You)
+
+7\. Hutao (The Genshin Impact)
 
 </details>
 
@@ -527,7 +531,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <details>
 <br>
 
-1\. Yamada (Behind the Supermarket with You)
+1\. Tifa Lockhart (Final Fantasy)
 
 2\. Reze (The Chainsaw Man)
 
@@ -535,7 +539,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 4\. Power (The Chainsaw Man)
 
-5\. Hutao (The Genshin Impact)
+5\. Aerith (Final Fantasy)
+
+6\. Yamada (Behind the Supermarket with You)
+
+7\. Hutao (The Genshin Impact)
 
 </details>
 
