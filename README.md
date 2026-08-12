@@ -12,6 +12,8 @@
 
 - **Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
+- **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
+
 - **4 Wanita Cantik di Zaman Tiongkok Kuno**: [KLIK 4 Wanita Cantik di Zaman Tiongkok Kuno](https://4-wanita-cantik-zaman-cina-kuno.netlify.app/)
 
 - **Sejarah Dinasti dan Era Tiongkok (Cina)**: [KLIK Sejarah Dinasti dan Era Tiongkok (Cina)](https://sejarah-dinasti-dan-era-tiongkok-cina.netlify.app/)
