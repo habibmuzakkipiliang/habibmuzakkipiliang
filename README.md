@@ -29,6 +29,38 @@
 ***
 <br>
 
+# **👨🏻‍💻 My Main Project Portfolio (Project Portofolio Utama saya)**
+
+<details>
+<br>
+
+- **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+
+- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
+
+- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
+
+- **REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://github.com/habibmuzakkipiliang/PROJECT_FANDOM_THE_SMURF_2021_SENDIRI)
+ 
+- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
+
+- **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
+
+- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+
+- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
+
+- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+
+- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
+
+- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
+
+</details>
+
+***
+<br>
+
 # **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -62,37 +94,22 @@
 * * *
 <br>
 
-# **👨🏻‍💻 My Main Project Portfolio (Project Portofolio Utama saya)**
+# **⚙️ Tools (Alat)**:
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<details>
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
+
+* * *
 <br>
 
-- **Laporan OWASP ZAP Bug Hunter dan Bug Bounty**: [Klik Laporan OWASP ZAP Bug Hunter dan Bug Bounty](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
-
-- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
-
-- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
-
-- **REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://github.com/habibmuzakkipiliang/PROJECT_FANDOM_THE_SMURF_2021_SENDIRI)
- 
-- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
-
-- **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
-
-- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
-
-- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
-
-- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
-
-- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
-
-- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
-
-</details>
-
-***
-<br>
 
 # **👨🏻‍💻 My Projects and Coding Practice (Project saya dan Latihan Coding)**
 
@@ -156,23 +173,6 @@
 
 * * *
 <br>
-
-# **⚙️ Tools (Alat)**:
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
-
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
-
-* * *
-<br>
-
 
 # **🌐 Media Social:**
 
