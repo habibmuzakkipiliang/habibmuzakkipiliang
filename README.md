@@ -175,6 +175,41 @@
 * * *
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+* * *
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+* * *
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+* * *
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+* * *
+<br>
+
+[![](https://komarev.com/ghpvc/?username=habibmuzakkipiliang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+* * *
+<br>
+
 # **🎖️ Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
 
 <details>
@@ -409,41 +444,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
 </details>
-
-* * *
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-* * *
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-* * *
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-* * *
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-* * *
-<br>
-
-[![](https://komarev.com/ghpvc/?username=habibmuzakkipiliang&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 * * *
 <br>
