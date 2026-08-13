@@ -309,6 +309,26 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
+# **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+* * *
+<br>
+
+# **🤖 AI Agentic IDE Coding Tools (AI Agentic IDE Coding Tools):**
+![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+***
+<br>
+
 # **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
@@ -362,26 +382,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 * * *
 <br>
-
-# **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-* * *
-<br>
-
-# **🤖 AI Agentic IDE Coding Tools (AI Agentic IDE Coding Tools):**
-![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-***
-<br>
-
 
 # **🕵 Aspiring Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
 ![OWASP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
