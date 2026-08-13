@@ -127,10 +127,15 @@
 # **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 *  *  *
@@ -138,7 +143,9 @@
 
 # **🤖 AI Agentic IDE Coding Tools (AI Agentic IDE Coding Tools):**
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
+
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
+
 ![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 * * *
@@ -152,10 +159,15 @@
 
 # **⚙️ Tools (Alat)**:
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
+
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
 
 * * *
@@ -164,12 +176,18 @@
 
 # **🌐 Media Social:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/) 
+
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
+
 [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
+
 [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
+
 [![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
+
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
 
 * * *
