@@ -204,6 +204,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **D4 Vocational Informatics Engineering**
 
+✅ **prefers practical application over rigid academic theory.**
+
 ✅ **Year of Birth : 2007 (Gen Z Core)**
 
 ✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
@@ -228,7 +230,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Migrant from West Sumatra<br>
 
-✅ Idol Enthusiast (Wota and Fans) JKT48<br>
+✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
 
 ✅ A Beginner from 0 Novelist (Novel Writer) on Wattpad<br>
 
@@ -240,11 +242,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br> ABG (Happy Boarding Arena) Event *Completed*
 <br> MAN 2 Kota Serang – 2025<br>
 
-✅ Aspiring Front End Developer<br>
+✅ **Aspiring Front End Developer**<br>
 
-✅ Aspiring Full Stack Developer<br>
+✅ **Aspiring Full Stack Developer**<br>
 
-✅ Aspiring Web Developer <br>
+✅ **Aspiring Web Developer**<br>
 </details>
 
 * * *
@@ -258,6 +260,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**
 
 ✅ **D4 Vokasi Teknik Informatika**
+
+✅ **lebih suka praktek daripada teori akademisi kaku**
 
 ✅ **Tahun Lahir : 2007 (Gen Z Inti)**
 
@@ -283,7 +287,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Perantau dari Sumatra Barat<br> 
 
-✅ Idol Enthusiast (Wota and Fans) JKT48<br>
+✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
 
 ✅ Seorang Pemula dari 0 Novelis (Penulis Novel) di Wattpad<br> 
 
@@ -295,11 +299,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
 <br> MAN 2 Kota Serang – Tahun 2025<br> 
 
-✅ Calon Front End Developer<br> 
+✅ **Calon Front End Developer**<br> 
 
-✅ Calon Full Stack Developer<br> 
+✅ **Calon Full Stack Developer**<br> 
 
-✅ Calon Web Developer <br>
+✅ **Calon Web Developer**<br>
 </details>
 
 * * *
