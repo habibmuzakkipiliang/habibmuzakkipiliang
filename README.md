@@ -29,6 +29,39 @@
 ***
 <br>
 
+# **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+*  *  *
+<br>
+
+# **🤖 AI Agentic IDE Coding Tools:**
+![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
+
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
+
+![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+* * *
+<br>
+
+# **🕵 Aspiring Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
+![OWASP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
+
+* * *
+<br>
+
 # **👨🏻‍💻 My Main Project Portfolio (Project Portofolio Utama saya)**
 
 <details>
@@ -120,39 +153,6 @@
 
 - **Repo Mini Project JavaScript (Aplikasi Kalkulator)**: [Klik Mini Project JavaScript](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_JavaScript)
 </details>
-
-* * *
-<br>
-
-# **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-*  *  *
-<br>
-
-# **🤖 AI Agentic IDE Coding Tools (AI Agentic IDE Coding Tools):**
-![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
-
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
-
-![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-* * *
-<br>
-
-# **🕵 Aspiring Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
-![OWASP](https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
 
 * * *
 <br>
