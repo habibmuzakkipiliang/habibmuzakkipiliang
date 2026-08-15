@@ -321,9 +321,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br>
 
-✅ OSN-S Informatics (2025) *Completed and passed*<br>
+✅ **OSN-S Informatics (2025) *Completed and passed***<br>
 
-✅ OSN-K Informatics (2025) *Completed and only reached the city level*<br>
+✅ **OSN-K Informatics (2025) *Completed and only reached the city level***<br>
+
+✅ **Able to control and use simple AI agentic coding tools**
 
 ✅ Part of Generation Z (Gen Z)
 
@@ -372,15 +374,17 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **Domisili (tempat tinggal) : Kota Serang, Provinsi Banten, Indonesia**
 
+✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
+
 ✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
 
 ✅ Alumni Kelas 12 Agama (Lulus 2026)<br> 
 
 ✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
 
-✅ OSN-S Informatika (2025) *Telah selesai dan lolos*<br> 
+✅ **OSN-S Informatika (2025) *Telah selesai dan lolos***<br> 
 
-✅ OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja*<br> 
+✅ **OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja***<br> 
 
 ✅ Bagian dari Generasi Z (Gen Z)
 
