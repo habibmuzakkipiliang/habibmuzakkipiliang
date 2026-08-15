@@ -14,6 +14,8 @@
 
 - **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
 
+- **Sejarah Tanam Paksa di Indonesia**: [KLIK Sejarah Tanam Paksa di Indonesia](https://sejarah-tanam-paksa-belanda-indonesia.netlify.app/)
+
 - **Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara**: [KLIK Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara](https://sejarah-eic-inggris-britania-raya.netlify.app/)
 
 - **4 Wanita Cantik di Zaman Tiongkok (Cina) Kuno**: [KLIK 4 Wanita Cantik di Zaman Tiongkok Kuno](https://4-wanita-cantik-zaman-cina-kuno.netlify.app/)
