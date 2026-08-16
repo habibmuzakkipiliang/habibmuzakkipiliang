@@ -16,6 +16,8 @@
 
 - **Sejarah Tanam Paksa di Indonesia**: [KLIK Sejarah Tanam Paksa di Indonesia](https://sejarah-tanam-paksa-belanda-indonesia.netlify.app/)
 
+- **Sejarah Lubang Jepang Bukittinggi, Sumatra Barat**: [KLIK Sejarah Lubang Jepang Bukittinggi, Sumatra Barat](https://sejarah-lubang-jepang-bukittinggi.netlify.app/)
+
 - **Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara**: [KLIK Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara](https://sejarah-eic-inggris-britania-raya.netlify.app/)
 
 - **4 Wanita Cantik di Zaman Tiongkok (Cina) Kuno**: [KLIK 4 Wanita Cantik di Zaman Tiongkok Kuno](https://4-wanita-cantik-zaman-cina-kuno.netlify.app/)
