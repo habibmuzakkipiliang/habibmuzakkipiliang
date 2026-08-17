@@ -12,6 +12,8 @@
 
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
+- **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
+
 - **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
 
 - **Sejarah Tanam Paksa di Indonesia**: [KLIK Sejarah Tanam Paksa di Indonesia](https://sejarah-tanam-paksa-belanda-indonesia.netlify.app/)
