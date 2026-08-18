@@ -112,6 +112,60 @@
 * * *
 <br>
 
+# **🌐 Media Social:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
+
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
+
+[![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
+
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
+
+* * *
+<br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+* * *
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+* * *
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+* * *
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+* * *
+<br>
+
+[![](https://komarev.com/ghpvc/?username=habibmuzakkipiliang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+* * *
+<br>
+
 # **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
 <details>
@@ -134,6 +188,33 @@
 → **Hanya dasar logika saja dan tidak wajib dipelajari :**
 
 ✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
+</details>
+
+* * *
+<br>
+
+# **</details> Programming language (Coding) currently being studied (Full Stack Developer)** :
+
+<details>
+<br>
+
+→ **Main for Front End and Back End (Required):**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (CSS Framework)
+
+✅ Basic JavaScript (Front End Web)
+
+✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
+
+* * *
+
+→ **Only the basics of programming and logic and are not mandatory to learn ::**
+
+✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
 </details>
 
 * * *
@@ -220,60 +301,6 @@
 - **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
 </details>
-
-* * *
-<br>
-
-# **🌐 Media Social:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/) 
-
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/habib_muzakki_piliang) 
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@habib_muzakki_piliang22)
-
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@habib_muzakki_piliang)
-
-[![Wattpad](https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white)](https://www.wattpad.com/user/habib_muzakki)
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@habib_muzakki_piliang)
-
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
-
-* * *
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=habibmuzakkipiliang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-* * *
-<br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-* * *
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-* * *
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-* * *
-<br>
-
-[![](https://komarev.com/ghpvc/?username=habibmuzakkipiliang&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 * * *
 <br>
@@ -461,33 +488,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **Calon Full Stack Developer**<br> 
 
 ✅ **Calon Web Developer**<br>
-</details>
-
-* * *
-<br>
-
-# **</details> Programming language (Coding) currently being studied (Full Stack Developer)** :
-
-<details>
-<br>
-
-→ **Main for Front End and Back End (Required):**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (CSS Framework)
-
-✅ Basic JavaScript (Front End Web)
-
-✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
-
-* * *
-
-→ **Only the basics of programming and logic and are not mandatory to learn ::**
-
-✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
 </details>
 
 * * *
