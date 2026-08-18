@@ -50,23 +50,13 @@
 
 - **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
 
-- **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
-
 - **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
 
-- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
-
 - **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
-
-- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
 
 - **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
 
 - **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
-
-- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
-
-- **REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://github.com/habibmuzakkipiliang/PROJECT_FANDOM_THE_SMURF_2021_SENDIRI)
  
 </details>
 
@@ -149,6 +139,49 @@
 * * *
 <br>
 
+# **📁 Repository Github Only** :
+
+<details>
+<br>
+
+- **Repo Website Awal (Portfolio)**: [Klik Repo Website Awal (Portfolio)](https://github.com/habibmuzakkipiliang/website_portofolio_awal)
+
+- **Repo Website Portfolio Futuristik**: [Klik Repo Vercel 1](https://github.com/habibmuzakkipiliang/website_portofolio_baru_futuristik)
+
+- **Repo Website Futuristik Baru V2**: [Klik Repo Vercel Baru 2](https://github.com/habibmuzakkipiliang/CODING_PORTOFOLIO_FUTURISTIK)
+
+- **REPO DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG REPO DAFTAR VERSI ANDROID SMARTPHONE HP](https://github.com/habibmuzakkipiliang/Daftar_semua_versi_Android_Teknologi_Digital_HP)
+
+- **REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK REPO WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://github.com/habibmuzakkipiliang/PROJECT_FANDOM_THE_SMURF_2021_SENDIRI)
+
+- **REPO WEBSITE HEWAN YANG SUDAH PUNAH**: [KLIK REPO WEBSITE HEWAN YANG SUDAH PUNAH](https://github.com/habibmuzakkipiliang/A._HEWAN_PUNAH)
+
+- **Repo LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK LATIHAN HTML JAVASCRIPT DASAR 1](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_JAVASCRIPT_DASAR_1)
+
+- **REPO LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
+
+- **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK REPO BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
+
+- **Repo Website Tugas Prakarya 1**: [Klik Repo Website Tugas Prakarya](https://github.com/habibmuzakkipiliang/tugas_website_sendiri_khusus_prakarya)
+
+- **Repo Website Tugas Prakarya 2**: [Klik Repo Website Tugas Prakarya 2](https://github.com/habibmuzakkipiliang/tugas_prakarya_makanan_daerah_indonesia)
+
+- **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
+
+- **Repo Latihan JavaScript Sederhana 2**: [Klik Latihan JavaScript Sederhana 2*](https://github.com/habibmuzakkipiliang/Latihan_JavaScript_Sederhana)
+
+- **Repo Latihan Python Sederhana 2**: [Klik Latihan Python Sederhan 2](https://github.com/habibmuzakkipiliang/Latihan_Python_Sederhana)
+
+- **Repo Mini Project Python (Aplikasi Kalkulator)**: [Klik Mini Project Python](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_Python)
+
+- **Repo Mini Project JavaScript (Aplikasi Kalkulator)**: [Klik Mini Project JavaScript](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_JavaScript)
+
+</details>
+
+* * *
+<br>
+
+
 # **👨🏻‍💻 My Projects and Coding Practice (Project saya dan Latihan Coding)**
 
 <details>
@@ -158,19 +191,11 @@
 ## **Pas di SMA (MAN)** :
 <br>
 
-- **REPO WEBSITE HEWAN YANG SUDAH PUNAH**: [KLIK REPO WEBSITE HEWAN YANG SUDAH PUNAH](https://github.com/habibmuzakkipiliang/A._HEWAN_PUNAH)
-
 - **WEBSITE HEWAN YANG SUDAH PUNAH**: [KLIK WEBSITE HEWAN YANG SUDAH PUNAH](https://hewan-yang-sudah-punah-dalam-sejara.vercel.app/)
-
-- **Repo LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK LATIHAN HTML JAVASCRIPT DASAR 1](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_JAVASCRIPT_DASAR_1)
 
 - **WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1**: [KLIK WEBSITE LATIHAN HTML JAVASCRIPT DASAR 1](https://latihan-html-javascript-dasar-1.vercel.app/)
 
-- **REPO LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK REPO LATIHAN WEBSITE HTML DASAR](https://github.com/habibmuzakkipiliang/1._LATIHAN_HTML_DASAR)
-
 - **LATIHAN WEBSITE HTML DASAR VERCEL**: [KLIK WEBSITE HTML DASAR VERCEL](https://latihan-html-dasar.vercel.app/)
-
-- **REPO LATIHAN BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK REPO BIKIN PROFIL SEDERHANA](https://github.com/habibmuzakkipiliang/1._LATIHAN_BIKIN_PROFIL_SEDERHANA_HTML_VERCEL)
 
 - **WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL**: [KLIK WEBSITE BIKIN PROFIL SEDERHANA HTML VERCEL](https://bikin-profil-sederhana-html.vercel.app/)
 
@@ -186,27 +211,14 @@
 
 - **Desain Website Awal Tes 3**: [Klik Desain Website Awal Tes 3](https://habibmuzakkipiliang.github.io/website_portofolio_awal/A._TES_1.html)
 
-- **Repo Website Tugas Prakarya 1**: [Klik Repo Website Tugas Prakarya](https://github.com/habibmuzakkipiliang/tugas_website_sendiri_khusus_prakarya)
-
 - **Website Tugas Prakarya 1**: [Klik Website Tugas Prakarya](https://website-prakarya-habib-muzakki.vercel.app/)
 
-- **Repo Website Tugas Prakarya 2**: [Klik Repo Website Tugas Prakarya 2](https://github.com/habibmuzakkipiliang/tugas_prakarya_makanan_daerah_indonesia)
-
 - **Website Tugas Prakarya 2**: [Klik Website Tugas Prakarya 2](https://habib-muzakki-kelas-12-agama.vercel.app/)
-
-- **Repo Landing Page**: [Klik Repo Vercel Landing Page](https://github.com/habibmuzakkipiliang/landing_page_awal)
 
 - **Website Landing Page**: [Klik Vercel Landing Page](https://landing-page-awal-habib.vercel.app/)
  
 - **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
-- **Repo Latihan JavaScript Sederhana 2**: [Klik Latihan JavaScript Sederhana 2*](https://github.com/habibmuzakkipiliang/Latihan_JavaScript_Sederhana)
-
-- **Repo Latihan Python Sederhana 2**: [Klik Latihan Python Sederhan 2](https://github.com/habibmuzakkipiliang/Latihan_Python_Sederhana)
-
-- **Repo Mini Project Python (Aplikasi Kalkulator)**: [Klik Mini Project Python](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_Python)
-
-- **Repo Mini Project JavaScript (Aplikasi Kalkulator)**: [Klik Mini Project JavaScript](https://github.com/habibmuzakkipiliang/Mini_Project_Sederhana_JavaScript)
 </details>
 
 * * *
@@ -454,7 +466,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
+# **</details> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
 <br>
