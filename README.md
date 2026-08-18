@@ -42,6 +42,8 @@
 <details>
 <br>
 
+- **Website Portofolio tentang Oshi, Wota, Fans JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-oshi-jkt48.netlify.app/)
+
 - **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
 - **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
@@ -490,7 +492,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 - **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
 
-- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi-jkt48.netlify.app/)
+- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi.netlify.app/)
 
 - **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
 
