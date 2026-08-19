@@ -42,7 +42,7 @@
 <details>
 <br>
 
-- **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-oshi-jkt48.netlify.app/)
+- **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-jkt48.netlify.app/)
 
 - **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
