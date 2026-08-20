@@ -502,7 +502,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 - **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
 
-- **Website OSHIMEN WOTA JKT48**: [KLIK OSHIMEN WOTA JKT48](https://oshimen-wota-fans-oshi.netlify.app/)
+- **Website OSHIMEN**: [KLIK OSHIMEN](https://oshimen-wota-fans-oshi.netlify.app/)
 
 - **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
 
