@@ -525,8 +525,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 <details>
 
-- **Blog**: [habibmuzakkipiliang.blogspot.com](https://habibmuzakkipiliang.blogspot.com/)
-
 - **Kompasiana**: [habib muzakki blogger](https://www.kompasiana.com/habibmuzakki3305)
 
 - **Profil di Wattpad**: [habib muzakki piliang](https://www.wattpad.com/user/habib_muzakki)
