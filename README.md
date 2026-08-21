@@ -382,7 +382,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **D4 Vocational Informatics Engineering**
 
-✅ **prefers practical application over rigid academic theory.**
+✅ **I prefer hands-on coding practice over rigid, boring academic theory.**
 
 ✅ **Year of Birth : 2007 (Gen Z Core)**
 
@@ -441,7 +441,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **D4 Vokasi Teknik Informatika**
 
-✅ **lebih suka praktek daripada teori akademisi kaku**
+✅ **lebih suka praktek Coding secara aplikatif daripada teori akademisi kaku yang bosenin**
 
 ✅ **Tahun Lahir : 2007 (Gen Z Inti)**
 
