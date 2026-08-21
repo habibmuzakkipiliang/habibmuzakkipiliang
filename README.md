@@ -504,6 +504,10 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 - **Website OSHIMEN**: [KLIK OSHIMEN](https://oshimen-wota-fans-oshi.netlify.app/)
 
+- **Cerita selama naik Kereta Api Diesel dan KRL Commuter Line ke Palmerah Jakarta**: [KLIK CERITA DIATAS](https://naik-kereta-api-ke-palmerah-jakarta-1.netlify.app/)
+
+- **Cerita pengalaman saya selama naik kereta Api (Bagian kedua) Ke Pasar Tanah Abang Jakarta**: [KLIK CERITA DIATAS](https://naik-kereta-api-tanah-abang-jakarta-2.netlify.app/)
+
 - **Cerita pengalaman dan pejuang UTBK dan SNBT di Untirta Cilegon**: [KLIK DONG UNTUK PEJUAN UTBK UNTIRTA](https://cerita-pengalaman-pejuang-snbt-2026.netlify.app/)
 
 - **Cerita pengalaman ujian praktek renang**:[KLIK DONG UJIAN PRAKTEK RENANG](https://cerita-pengalaman-renang-aqualand.netlify.app/)
