@@ -388,11 +388,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
 
-✅ Alumni of MAN 2 Serang City (Graduated 2026)<br>
+✅ **Alumni of MAN 2 Serang City (Graduated 2026)**<br>
 
-✅ Alumni of Class 12 Religion (Graduated 2026)<br>
+✅ **Alumni of Class 12 Religion (Graduated 2026)**<br>
 
-✅ 34th Class of ASCENDRIA MAN 2 SERANG CITY<br>
+✅ **34th Class of ASCENDRIA MAN 2 SERANG CITY**<br>
 
 ✅ **OSN-S Informatics (2025) *Completed and passed***<br>
 
@@ -400,7 +400,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **Able to control and use simple AI agentic coding tools**
 
-✅ Part of Generation Z (Gen Z)
+✅ **Part of Generation Z (Gen Z Core)**
 
 ✅ Former school status: from 2025 to 2026 (April 15th) it was PP (round trip) from home, no longer living in boarding school (dormitory) after 2 years (2023 - 2025) of living in the dormitory.
 
@@ -449,17 +449,17 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
 
-✅ Alumni MAN 2 Kota Serang (Lulus 2026)<br> 
+✅ **Alumni MAN 2 Kota Serang (Lulus 2026)**<br> 
 
-✅ Alumni Kelas 12 Agama (Lulus 2026)<br> 
+✅ **Alumni Kelas 12 Agama (Lulus 2026)**<br> 
 
-✅ Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG<br> 
+✅ **Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG**<br> 
 
 ✅ **OSN-S Informatika (2025) *Telah selesai dan lolos***<br> 
 
 ✅ **OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja***<br> 
 
-✅ Bagian dari Generasi Z (Gen Z)
+✅ **Bagian dari Generasi Z (Gen Z Inti)**
 
 ✅ Status sekolah dulu : saat di tahun 2025 hingga 2026 (15 april) adalah PP (pulang-pergi) dari rumah, tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama. 
 
