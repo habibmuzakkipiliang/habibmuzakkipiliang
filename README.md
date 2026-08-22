@@ -14,6 +14,8 @@
 
 - **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
 
+- **Sejarah Mausoleum Van Motman di Bogor, Jawa Barat**: [KLIK Sejarah Mausoleum Van Motman di Bogor, Jawa Barat](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
+
 - **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
 
 - **Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara**: [KLIK Panduan Lengkap Sejarah Imperium Britania Raya (Inggris), EIC, dan Jejaknya di Nusantara](https://sejarah-eic-inggris-britania-raya.netlify.app/)
