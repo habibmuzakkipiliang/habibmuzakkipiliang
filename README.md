@@ -14,7 +14,9 @@
 
 - **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
 
-- **Sejarah Mausoleum Van Motman di Bogor, Jawa Barat**: [KLIK Sejarah Mausoleum Van Motman di Bogor, Jawa Barat](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
+- **Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?**: [KLIK Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?](https://sejarah-makam-jerman-bogor-jawa-barat.netlify.app/)
+
+- **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
 
 - **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
 
