@@ -10,13 +10,11 @@
 <details>
 <br>
 
+- **🏔️ Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?**: [KLIK Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?](https://sejarah-makam-jerman-bogor-jawa-barat.netlify.app/)
+
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
 - **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
-
-- **Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?**: [KLIK Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?](https://sejarah-makam-jerman-bogor-jawa-barat.netlify.app/)
-
-- **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
 
 - **Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri**: [KLIK Mengenal VOC: Perusahaan Terkaya Sepanjang Sejarah Dunia yang Punya Tentara Sendiri](https://sejarah-voc-hindia-belanda-indonesia.netlify.app/)
 
@@ -35,6 +33,8 @@
 - **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
 
 - **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
+
+- **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
 
 </details>
 
