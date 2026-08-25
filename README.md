@@ -544,70 +544,73 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 - **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
 </details>
 
----
+* * *
 <br>
 
-# **My Personal Hobbies : Waifu (Wibu Anime) Enthuasiast**
+# **My Personal Hobbies : Waifu Girl (Wibu Anime) Enthuasiast**
 
 <details>
 <br>
 
-1\. Tifa Lockhart (Final Fantasy)
+1\. Yamada (Behind the Supermarket with You)
 
-2\. Reze (The Chainsaw Man)
+2\. Tayama (Behind the Supermarket with You)
 
-3\. Makima (The Chainsaw Man)
+3\. Reze (The Chainsaw Man)
 
-4\. Power (The Chainsaw Man)
+4\. Makima (The Chainsaw Man)
 
-5\. Aerith (Final Fantasy)
+5\. Power (The Chainsaw Man)
 
-6\. Yamada (Behind the Supermarket with You)
+6\. Aerith (Final Fantasy)
 
-7\. Hutao (The Genshin Impact)
+7\. Tifa Lockhart (Final Fantasy)
 
-8\. Trina Yang (Quantum Heroes: Dinoster)
+8\. Hutao (The Genshin Impact)
 
-9\. Delby Kay (Quantum Heroes: Dinoster)
+9\. Trina Yang (Quantum Heroes: Dinoster)
 
-10\. Ejen Kim (Ejen Ali)
+10\. Delby Kay (Quantum Heroes: Dinoster)
+
+11\. Ejen Kim (Ejen Ali)
 
 </details>
-
 
 * * *
 <br>
 
-
-# **Hobi Personal : Waifu (Wibu Anime) Enthuasiast**
+# **Hobi Personal : Waifu Girl (Wibu Anime) Enthuasiast**
 
 <details>
 <br>
 
-1\. Tifa Lockhart (Final Fantasy)
+1\. Yamada (Behind the Supermarket with You)
 
-2\. Reze (The Chainsaw Man)
+2\. Tayama (Behind the Supermarket with You)
 
-3\. Makima (The Chainsaw Man)
+3\. Reze (The Chainsaw Man)
 
-4\. Power (The Chainsaw Man)
+4\. Makima (The Chainsaw Man)
 
-5\. Aerith (Final Fantasy)
+5\. Power (The Chainsaw Man)
 
-6\. Yamada (Behind the Supermarket with You)
+6\. Aerith (Final Fantasy)
 
-7\. Hutao (The Genshin Impact)
+7\. Tifa Lockhart (Final Fantasy)
 
-8\. Trina Yang (Quantum Heroes: Dinoster)
+8\. Hutao (The Genshin Impact)
 
-9\. Delby Kay (Quantum Heroes: Dinoster)
+9\. Trina Yang (Quantum Heroes: Dinoster)
 
-10\. Ejen Kim (Ejen Ali) 
+10\. Delby Kay (Quantum Heroes: Dinoster)
+
+11\. Ejen Kim (Ejen Ali)
 
 </details>
 
----
+* * *
 <br>
+
 
 # **🎵 My Personal Hobbies & JKT48 Oshi List**
 
