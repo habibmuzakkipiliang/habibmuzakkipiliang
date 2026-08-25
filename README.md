@@ -571,6 +571,12 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 7\. Hutao (The Genshin Impact)
 
+8\. Trina Yang (Quantum Heroes: Dinoster)
+
+9\. Delby Kay (Quantum Heroes: Dinoster)
+
+10\. Ejen Kim (Ejen Ali)
+
 </details>
 
 
@@ -596,6 +602,12 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 6\. Yamada (Behind the Supermarket with You)
 
 7\. Hutao (The Genshin Impact)
+
+8\. Trina Yang (Quantum Heroes: Dinoster)
+
+9\. Delby Kay (Quantum Heroes: Dinoster)
+
+10\. Ejen Kim (Ejen Ali) 
 
 </details>
 
