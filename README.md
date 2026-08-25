@@ -715,7 +715,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 13\. Jessi JKT48
 
-14\. Fiony JKT484
+14\. Fiony JKT48
 
 15\. Muthe JKT48
 
