@@ -1,4 +1,4 @@
-# **Hi there, I'm Habib Muzakki Piliang 👏👏👏👏👏👏👏**
+# **Hi there, I'm Habib Muzakki Piliang 👏👏👏👏**
 
 ![Habib Muzakki Piliang]( 3.png)
 
@@ -11,6 +11,8 @@
 <br>
 
 - **🏔️ Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?**: [KLIK Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?](https://sejarah-makam-jerman-bogor-jawa-barat.netlify.app/)
+
+- **👑 JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan**: [KLIK JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan](https://sejarah-banten-lama-cina-tionghoa.netlify.app/)
 
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
