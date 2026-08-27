@@ -115,8 +115,6 @@ Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA tah
 
 ✅ Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Guide to Learn Python with Al at DQLab tahun 2025
 
-✅ Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Introduction to Data Science with Python tahun 2025
-
 ✅ Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Data Analyst with Excel tahun 2025
  
 ✅ Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Machine learning & Al for Beginner tahun 2025
