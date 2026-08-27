@@ -613,7 +613,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-
 # **🎵 My Personal Hobbies & JKT48 Oshi List**
 
 <details>
@@ -629,11 +628,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 1\. Gracie JKT48 (MAIN) 
 
-2\. Michie JKT48 (MAIN)
+2\. Aralie JKT48 (MAIN) 
 
 3\. Lily JKT48 (MAIN)
 
-4\. Aralie JKT48 (MAIN)
+4\. Michie JKT48 (MAIN)
 
 5\. Fritzy JKT48 (MAIN)
 
@@ -693,11 +692,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 1\. Gracie JKT48 (UTAMA)
 
-2\. Michie JKT48 (UTAMA)
+2\. Aralie JKT48 (UTAMA) 
 
 3\. Lily JKT48 (UTAMA)
 
-4\. Aralie JKT48 (UTAMA)
+4\. Michie JKT48 (UTAMA)
 
 5\. Fritzy JKT48 (UTAMA)
 
