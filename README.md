@@ -86,9 +86,9 @@
 
 4\. Piagam Penghargaan <a href="https://osn-onmipa-bpti.kemendikdasmen.go.id/osn.html">Finalis OSN-K Informatika tahun 2025</a>
 
-5\. Sertifikat Kompetensi <a href="https://specialskill.id/">Special Skill Indonesia</a> Bootcamp IT Pemrograman Python tahun 2026
+5\. Sertifikat Kompetensi <a href="https://specialskill.id/">Special Skill Indonesia</a> Bootcamp IT Pemrograman dasar Python tahun 2026
 
-6\. Sertifikat Kompetensi <a href="https://specialskill.id/">Special Skill Indonesia</a> Bootcamp IT Pemrograman Python 2 (tabel data hasil materi dan nilainya) tahun 2026
+6\. Sertifikat Kompetensi <a href="https://specialskill.id/">Special Skill Indonesia</a> Bootcamp IT Pemrograman dasar Python 2 (tabel data hasil materi dan nilainya) tahun 2026
 
 7\. SERTIFIKAT KURSUS <a href="https://skillpedia.id/">SKILLPEDIA.ID</a> KELAS WEB DEVELOPMENT (HTML, CSS, JS) SECARA DARING TAHUN 2026
 
@@ -107,23 +107,23 @@ Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA tah
 
 14\. Sertifikat LULUS pelatihan Penggunaan Tools Artificial Intilegence yaitu Daftar Unit Kompetensi yang Dicapai untuk Kesiapan Kerja dan Karir oleh KEMENTERIAN KETENAGAKERJAAN REPUBLIK INDONESIA tahun 2026
 
-15\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Introduction to Data Science with Python tahun 2025
+15\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Introduction to Data Science with Python tahun 2025 (DASAR)
 
-16\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Mini Bootcamp: Introduction to Data Analytics Batch 4 tahun 2025
+16\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Mini Bootcamp: Introduction to Data Analytics Batch 4 tahun 2025 (DASAR)
 
-17\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Study Case Bootcamp Data Analyst with SQL & Python tahun 2025
+17\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a> : Study Case Bootcamp Data Analyst with SQL & Python tahun 2025 (DASAR)
 
-18\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Guide to Learn Python with Al at DQLab tahun 2025
+18\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Guide to Learn Python with Al at DQLab tahun 2025 (DASAR)
 
-19\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Data Analyst with Excel tahun 2025
+19\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Data Analyst with Excel tahun 2025 (DASAR)
  
-20\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Machine learning & Al for Beginner tahun 2025
+20\. Sertifikat <a href="https://dqlab.id/">DQLab Bootcamp IT</a>  : Study Case Bootcamp Machine learning & Al for Beginner tahun 2025 (DASAR)
 
 21\. Sertifikat SmartPath Finance and Accounting Webinar
-"Data Processing and Visualization" by <a href="https://smartpath.id/">SmartPath Bootcamp</a> tahun 2025
+"Data Processing and Visualization" by <a href="https://smartpath.id/">SmartPath Bootcamp</a> tahun 2025 (DASAR)
 
 22\. Sertifikat IDCamp x Dicoding Live #10 - UiPath Agentic Automation: Introduction
-and Use Case tahun 2025
+and Use Case tahun 2025 (DASAR)
 
 23\. Sertifikat completing Module 2: Creating Essay Outlines
 and Drafts with AI - Ethics and Best Practices on November 23,
