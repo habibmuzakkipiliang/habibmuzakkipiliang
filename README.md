@@ -157,7 +157,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 *  *  *
 <br>
 
-# **🤖 AI Agentic IDE Coding Tools:**
+# **🤖 AI Agentic IDE Coding Tools (AI Driver Coding Tools):**
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
 
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
