@@ -232,60 +232,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
-
-<details>
-<br>
-
-→ **Main for Front End and Back End (Required):**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (CSS Framework)
-
-✅ Basic JavaScript (Front End Web)
-
-✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
-
-* * *
-
-→ **Only the basics of programming and logic and are not mandatory to learn ::**
-
-✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
-</details>
-
-* * *
-<br>
-
-# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
-
-<details>
-<br>
-
-→ **Utama untuk Front End dan Back End (Wajib) :**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (Framework CSS)
-
-✅ JavaScript dasar (Front End Web)
-
-✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)
-
-* * *
-
-→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
-
-✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
-</details>
-
-* * *
-<br>
-
 # **ℹ️ About Me (In English)**:
 
 <details>
@@ -399,6 +345,60 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **Calon Full Stack Developer**<br> 
 
 ✅ **Calon Web Developer**<br>
+</details>
+
+* * *
+<br>
+
+# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
+
+<details>
+<br>
+
+→ **Main for Front End and Back End (Required):**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (CSS Framework)
+
+✅ Basic JavaScript (Front End Web)
+
+✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
+
+* * *
+
+→ **Only the basics of programming and logic and are not mandatory to learn ::**
+
+✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
+</details>
+
+* * *
+<br>
+
+# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+
+<details>
+<br>
+
+→ **Utama untuk Front End dan Back End (Wajib) :**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (Framework CSS)
+
+✅ JavaScript dasar (Front End Web)
+
+✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)
+
+* * *
+
+→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
+
+✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
 </details>
 
 * * *
