@@ -158,11 +158,13 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 <br>
 
 # **🤖 AI Agentic IDE Coding Tools (AI Driver Coding Tools):**
-![Trae AI](https://img.shields.io/badge/Trae%20AI-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=00D68F)
-
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-101010?style=for-the-badge&logo=cursor&logoColor=white)
+![Trae AI](https://img.shields.io/badge/Trae%20AI-32F08C.svg?style=for-the-badge&logo=trae&logoColor=black)
 
 ![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+![Cursor AI](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+
+![Kilo Code](https://img.shields.io/badge/Kilo%20Code-F4ED14.svg?style=for-the-badge&logo=codefactor&logoColor=black)
 
 * * *
 <br>
