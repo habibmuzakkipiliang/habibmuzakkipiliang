@@ -286,6 +286,124 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
+# **ℹ️ About Me (In English)**:
+
+<details>
+<br>
+
+✅ **Harkat Negeri University of Tegal, Center Java**
+
+✅ **D4 Vocational Informatics Engineering**
+
+✅ **I prefer hands-on coding practice over rigid, boring academic theory.**
+
+✅ **Year of Birth : 2007 (Gen Z Core)**
+
+✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
+
+✅ **Alumnus of MAN 2 Serang City (Graduating in 2026)**<br>
+
+✅ **Alumnus of the Religious Studies Stream (Grades 10–12) (Graduating in 2026)**<br>
+
+✅ **34th Cohort of ASCENDRIA MAN 2 Serang City (Graduating in 2026)**<br>
+
+✅ **OSN-S Informatics (2025) *Completed and passed***<br>
+
+✅ **OSN-K Informatics (2025) *Completed and only reached the city level***<br>
+
+✅ **Able to control and use simple AI agentic coding tools**
+
+✅ **Part of Generation Z (Gen Z Core)**
+
+✅ **School status (2023–2026): From 2025 to 2026 (with schooling ending on April 15, 2026), the student is officially a day student commuting from home, having ceased living in the boarding facility after two years (2023–2025) of residence at the MAN 2 Kota Serang dormitory.**
+
+✅ Enjoys Computer Science and Social Studies<br>
+
+✅ Native Minangkabau-Piliang<br>
+
+✅ Migrant from West Sumatra<br>
+
+✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
+
+✅ A Beginner from 0 Novelist (Novel Writer) on Wattpad<br>
+
+✅ A Beginner from 0 Bloggers on Blogspot and Kompasiana<br>
+
+✅ A Beginner from 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
+
+✅ Media and Fashion Committee (Event Documentation *Completed*)
+<br> ABG (Happy Boarding Arena) Event *Completed*
+<br> MAN 2 Kota Serang – 2025<br>
+
+✅ **Aspiring Front End Developer**<br>
+
+✅ **Aspiring Full Stack Developer**<br>
+
+✅ **Aspiring Web Developer**<br>
+</details>
+
+* * *
+<br>
+
+# **ℹ️ Tentang Saya (In Indonesia)**:
+
+<details>
+<br>
+
+✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**
+
+✅ **D4 Vokasi Teknik Informatika**
+
+✅ **lebih suka praktek Coding secara aplikatif daripada teori akademisi kaku yang bosenin**
+
+✅ **Tahun Lahir : 2007 (Gen Z Inti)**
+
+✅ **Domisili (tempat tinggal) : Kota Serang, Provinsi Banten, Indonesia**
+
+✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
+
+✅ **Alumni MAN 2 Kota Serang (Lulus di tahun 2026)**<br> 
+
+✅ **Alumni Jurusan Agama (Dari Kelas 10 sampai kelas 12 Agama) (Lulus di tahun 2026)**<br> 
+
+✅ **Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG (Lulus di tahun 2026)**<br> 
+
+✅ **OSN-S Informatika (2025) *Telah selesai dan lolos***<br> 
+
+✅ **OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja***<br> 
+
+✅ **Bagian dari Generasi Z (Gen Z Inti)**
+
+✅ **Status sekolah dulu (2023 - 2026) : saat di tahun 2025 hingga 2026 (akhir sekolah pada 15 april 2026) adalah sebagai Anak PP (pulang pergi) yang legal dari rumah, dan tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama MAN 2 KOTA SERANG**. 
+
+✅ Menyukai mapel Informatika (Komputer) dan IPS<br> 
+
+✅ Orang Asli Minangkabau-Piliang<br> 
+
+✅ Perantau dari Sumatra Barat<br> 
+
+✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
+
+✅ Seorang Pemula dari 0 Novelis (Penulis Novel) di Wattpad<br> 
+
+✅ Seorang Pemula dari 0 Blogger di Blogspot dan Kompasiana<br> 
+
+✅ Seorang Pemula dari 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
+
+✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*
+<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
+<br> MAN 2 Kota Serang – Tahun 2025<br> 
+
+✅ **Calon Front End Developer**<br> 
+
+✅ **Calon Full Stack Developer**<br> 
+
+✅ **Calon Web Developer**<br>
+</details>
+
+* * *
+<br>
+
 # **📁 Repository Github Only** :
 
 <details>
@@ -366,124 +484,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
  
 - **Belajar Coding Try (JS, Python dan HTML)**: [Klik Belajar Coding Try](https://github.com/habibmuzakkipiliang/BELAJAR_CODING_TRY)
 
-</details>
-
-* * *
-<br>
-
-# **ℹ️ About Me (In English)**:
-
-<details>
-<br>
-
-✅ **Harkat Negeri University of Tegal, Center Java**
-
-✅ **D4 Vocational Informatics Engineering**
-
-✅ **I prefer hands-on coding practice over rigid, boring academic theory.**
-
-✅ **Year of Birth : 2007 (Gen Z Core)**
-
-✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
-
-✅ **Alumni of MAN 2 Serang City (Graduated 2026)**<br>
-
-✅ **Alumni of Class 12 Religion (Graduated 2026)**<br>
-
-✅ **34th Class of ASCENDRIA MAN 2 SERANG CITY**<br>
-
-✅ **OSN-S Informatics (2025) *Completed and passed***<br>
-
-✅ **OSN-K Informatics (2025) *Completed and only reached the city level***<br>
-
-✅ **Able to control and use simple AI agentic coding tools**
-
-✅ **Part of Generation Z (Gen Z Core)**
-
-✅ Former school status: from 2025 to 2026 (April 15th) it was PP (round trip) from home, no longer living in boarding school (dormitory) after 2 years (2023 - 2025) of living in the dormitory.
-
-✅ Enjoys Computer Science and Social Studies<br>
-
-✅ Native Minangkabau-Piliang<br>
-
-✅ Migrant from West Sumatra<br>
-
-✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
-
-✅ A Beginner from 0 Novelist (Novel Writer) on Wattpad<br>
-
-✅ A Beginner from 0 Bloggers on Blogspot and Kompasiana<br>
-
-✅ A Beginner from 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
-
-✅ Media and Fashion Committee (Event Documentation *Completed*)
-<br> ABG (Happy Boarding Arena) Event *Completed*
-<br> MAN 2 Kota Serang – 2025<br>
-
-✅ **Aspiring Front End Developer**<br>
-
-✅ **Aspiring Full Stack Developer**<br>
-
-✅ **Aspiring Web Developer**<br>
-</details>
-
-* * *
-<br>
-
-# **ℹ️ Tentang Saya (In Indonesia)**:
-
-<details>
-<br>
-
-✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**
-
-✅ **D4 Vokasi Teknik Informatika**
-
-✅ **lebih suka praktek Coding secara aplikatif daripada teori akademisi kaku yang bosenin**
-
-✅ **Tahun Lahir : 2007 (Gen Z Inti)**
-
-✅ **Domisili (tempat tinggal) : Kota Serang, Provinsi Banten, Indonesia**
-
-✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
-
-✅ **Alumni MAN 2 Kota Serang (Lulus 2026)**<br> 
-
-✅ **Alumni Kelas 12 Agama (Lulus 2026)**<br> 
-
-✅ **Angkatan ke-34 ASCENDRIA MAN 2 KOTA SERANG**<br> 
-
-✅ **OSN-S Informatika (2025) *Telah selesai dan lolos***<br> 
-
-✅ **OSN-K Informatika (2025) *Telah Selesai dilaksanakan dan hanya sampai tingkat kota saja***<br> 
-
-✅ **Bagian dari Generasi Z (Gen Z Inti)**
-
-✅ Status sekolah dulu : saat di tahun 2025 hingga 2026 (15 april) adalah PP (pulang-pergi) dari rumah, tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama. 
-
-✅ Menyukai mapel Informatika (Komputer) dan IPS<br> 
-
-✅ Orang Asli Minangkabau-Piliang<br> 
-
-✅ Perantau dari Sumatra Barat<br> 
-
-✅ **Idol Enthusiast (Wota and Fans) JKT48**<br>
-
-✅ Seorang Pemula dari 0 Novelis (Penulis Novel) di Wattpad<br> 
-
-✅ Seorang Pemula dari 0 Blogger di Blogspot dan Kompasiana<br> 
-
-✅ Seorang Pemula dari 0 Bug Hunter (Bug Bounty) OWASP ZAP<br>
-
-✅ Panitia Media and Fashion (Dokumentasi Acara *Selesai dilaksanakan*
-<br> Acara ABG (Arena Boarding Gembira) *Selesai dilaksanakan*
-<br> MAN 2 Kota Serang – Tahun 2025<br> 
-
-✅ **Calon Front End Developer**<br> 
-
-✅ **Calon Full Stack Developer**<br> 
-
-✅ **Calon Web Developer**<br>
 </details>
 
 * * *
