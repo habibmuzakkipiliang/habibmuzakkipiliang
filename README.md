@@ -489,7 +489,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **📜Crafting Senior High School journeys and JKT48 fandom through code (Merajut kisah (SMA) dan dunia JKT48 lewat kode)**
+# **📜Crafting Senior High School journeys through code (Merajut kisah (SMA) lewat kode)**
 
 <details>
 <br>
