@@ -500,8 +500,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 - **Daftar perjalanan selama Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023**: [KLIK DONG Study Tour Bromo - Malang - Jogja Kelas 9 SMP, Semester 2 tahun 2023](https://perjalanan-study-tour-smp-al-izzah-23.netlify.app/)
 
-- **Website OSHIMEN**: [KLIK OSHIMEN](https://oshimen-wota-fans-oshi.netlify.app/)
-
 - **Cerita selama naik Kereta Api Diesel dan KRL Commuter Line ke Palmerah Jakarta**: [KLIK CERITA DIATAS](https://naik-kereta-api-ke-palmerah-jakarta-1.netlify.app/)
 
 - **Cerita pengalaman saya selama naik kereta Api (Bagian kedua) Ke Pasar Tanah Abang Jakarta**: [KLIK CERITA DIATAS](https://naik-kereta-api-tanah-abang-jakarta-2.netlify.app/)
