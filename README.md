@@ -247,6 +247,8 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **I prefer hands-on coding practice over rigid, boring academic theory.**
 
+✅ **Able to control and use simple AI agentic coding tools**
+
 ✅ **Year of Birth : 2007 (Gen Z Core)**
 
 ✅ **Domicile (place of residence) : Serang City, Banten Province, Indonesia**
@@ -260,8 +262,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **OSN-S Informatics (2025) *Completed and passed***<br>
 
 ✅ **OSN-K Informatics (2025) *Completed and only reached the city level***<br>
-
-✅ **Able to control and use simple AI agentic coding tools**
 
 ✅ **Part of Generation Z (Gen Z Core)**
 
@@ -306,11 +306,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ **lebih suka praktek Coding secara aplikatif daripada teori akademisi kaku yang bosenin**
 
+✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
+
 ✅ **Tahun Lahir : 2007 (Gen Z Inti)**
 
 ✅ **Domisili (tempat tinggal) : Kota Serang, Provinsi Banten, Indonesia**
-
-✅ **Bisa mengendalikan dan menggunakan AI Agentic Coding Tools yang sederhana dan simpel**
 
 ✅ **Alumni MAN 2 Kota Serang (Lulus di tahun 2026)**<br> 
 
