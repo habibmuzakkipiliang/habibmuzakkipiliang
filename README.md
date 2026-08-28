@@ -232,33 +232,6 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
-
-<details>
-<br>
-
-→ **Utama untuk Front End dan Back End (Wajib) :**
-
-✅ HTML (HyperText Markup Language)
-
-✅ CSS (Cascading Style Sheets)
-
-✅ Bootstrap (Framework CSS)
-
-✅ JavaScript dasar (Front End Web)
-
-✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)
-
-* * *
-
-→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
-
-✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
-</details>
-
-* * *
-<br>
-
 # **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
@@ -281,6 +254,33 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 → **Only the basics of programming and logic and are not mandatory to learn ::**
 
 ✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
+</details>
+
+* * *
+<br>
+
+# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+
+<details>
+<br>
+
+→ **Utama untuk Front End dan Back End (Wajib) :**
+
+✅ HTML (HyperText Markup Language)
+
+✅ CSS (Cascading Style Sheets)
+
+✅ Bootstrap (Framework CSS)
+
+✅ JavaScript dasar (Front End Web)
+
+✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)
+
+* * *
+
+→ **Hanya dasar logika saja dan tidak wajib dipelajari :**
+
+✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
 </details>
 
 * * *
