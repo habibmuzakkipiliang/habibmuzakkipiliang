@@ -232,7 +232,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</br> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
+# **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
 <details>
 <br>
@@ -259,7 +259,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</details> Programming language (Coding) currently being studied (Full Stack Developer)** :
+# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
 <br>
