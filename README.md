@@ -14,6 +14,8 @@
 
 - **👑 JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan**: [KLIK JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan](https://sejarah-banten-lama-cina-tionghoa.netlify.app/)
 
+- **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
+
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
 - **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
@@ -35,8 +37,6 @@
 - **PERANG DUNIA PERTAMA DAN KEDUA**: [KLIK DONG PERANG DUNIA PERTAMA DAN KEDUA](https://sejarah-perang-dunia-pertama-kedua.netlify.app/)
 
 - **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
-
-- **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
 
 </details>
 
