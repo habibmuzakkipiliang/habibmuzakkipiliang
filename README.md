@@ -10,6 +10,8 @@
 <details>
 <br>
 
+- **MARAWA — Bendera Pusaka & Identitas Abadi Orang Minang (Orang Padang) dari Dulu hingga Sekarang** : [KLIK MARAWA — Bendera Pusaka & Identitas Abadi Orang Minang (Orang Padang) dari Dulu hingga Sekarang](https://sejarah-bendera-marawa-minangkabau.netlify.app/)
+
 - **🏔️ Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?**: [KLIK Di Kaki Gunung Pangrango: Kisah Tersembunyi 10 Makam Tentara Jerman di Bogor — Mengapa Mereka Ada, Siapa Mereka, dan Mengapa Sedikit Orang Tahu?](https://sejarah-makam-jerman-bogor-jawa-barat.netlify.app/)
 
 - **👑 JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan**: [KLIK JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan](https://sejarah-banten-lama-cina-tionghoa.netlify.app/)
