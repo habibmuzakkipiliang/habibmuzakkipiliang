@@ -2,6 +2,8 @@
 
 ![Habib Muzakki Piliang]( 3.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Calon+Full+Stack+%26+Web+Developer;%F0%9F%8E%93+D4+Vokasi+Teknik+Informatika;%F0%9F%9A%80+Gen+Z+Core+%7C+Born+in+2007;%F0%9F%95%B5%EF%B8%8F+Aspiring+Bug+Hunter+OWASP+ZAP;%F0%9F%8E%AD+JKT48+Oshi+Enthusiast+%26+Novelist)](https://git.io/typing-svg)
+
 ***
 <br>
 
