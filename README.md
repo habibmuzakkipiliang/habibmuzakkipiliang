@@ -577,6 +577,10 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 7\. 📸 @linnichi
 
+8\. 📸 @ivy_purr0
+
+9\. 📸 @akari.aiai
+
 </details>
 
 * * *
