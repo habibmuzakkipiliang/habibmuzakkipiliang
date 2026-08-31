@@ -1,4 +1,4 @@
-# **Hi there, I'm Habib Muzakki Piliang 👏👏👏👏**
+# **Hi there, I'm Habib Muzakki 👏👏👏👏**
 
 ![Habib Muzakki Piliang]( 3.png)
 
@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=85&pause=1000&width=2500&height=200&lines=%F0%9F%92%BB+Aspiring+Web+Development+%26+Bug+Hunter;%F0%9F%8E%93+D4+Vokasi+Teknik+Informatika;%F0%9F%9A%80+Gen+Z+Core+%28Inti%29;%F0%9F%A4%96+AI+Driver+Coding+Tools;%F0%9F%8E%AD+JKT48+Idol+Enthusiast)](https://git.io/typing-svg)
 
-***
+* * *
 <br>
 
 # **📜 Portfolio Web Historical / Portofolio Web Sejarah**
@@ -363,7 +363,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 * * *
 <br>
 
-# **</> Programming language (Coding) currently being studied (Full Stack Developer)** :
+# **</br> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
 <details>
 <br>
@@ -781,7 +781,3 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 * * *
 <br>
-
-[![](https://komarev.com/ghpvc/?username=habibmuzakkipiliang&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
