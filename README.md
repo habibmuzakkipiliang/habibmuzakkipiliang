@@ -664,7 +664,7 @@
 
 17. Eli JKT48
 
-18. Celine Ex JKT48 (MAIN / UTAMA)
+18. Celine Ex JKT48 
 
 19. Mikaela JKT48 (Mikaela Kusjanto)
 
