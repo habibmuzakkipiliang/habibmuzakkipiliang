@@ -677,13 +677,13 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 7\. Erine JKT48 (MAIN)
 
-8\. Anindya JKT48 (MAIN)
+8\. Delynn JKT48 (MAIN)
 
-9\. Christy JKT48 (MAIN)
+9\. Anindya JKT48 (MAIN)
 
-10\. Carmen Hearts2Hearts (H2H) (MAIN)
+10\. Freya JKT48 (MAIN)
 
-11\. Freya JKT48 (MAIN)
+11\. Christy JKT48 
 
 12\. Olla JKT48
 
@@ -705,9 +705,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 21\. Intan JKT48 (Nur Intan)
 
-22\. Yui Oguri (AKB48)
+22\. Carmen Hearts2Hearts (H2H) 
 
-23\. Endo Rino (Rain Tree)
+23\. Yui Oguri (AKB48)
+
+24\. Endo Rino (Rain Tree)
 
 </details>
 
@@ -727,9 +729,9 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 **Oshi (Member Favorit) dibawah ini  :**
 
-1\. Gracie JKT48 (UTAMA)
+1\. Gracie JKT48 (UTAMA) 
 
-2\. Aralie JKT48 (UTAMA) 
+2\. Aralie JKT48 (UTAMA)
 
 3\. Lily JKT48 (UTAMA)
 
@@ -741,13 +743,13 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 7\. Erine JKT48 (UTAMA)
 
-8\. Anindya JKT48 (UTAMA)
+8\. Delynn JKT48 (UTAMA)
 
-9\. Christy JKT48 (UTAMA)
+9\. Anindya JKT48 (UTAMA)
 
-10\. Carmen Hearts2Hearts (H2H) (UTAMA)
+10\. Freya JKT48 (UTAMA)
 
-11\. Freya JKT48 (UTAMA)
+11\. Christy JKT48 
 
 12\. Olla JKT48
 
@@ -761,7 +763,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 17\. Eli JKT48
 
-18\. Celine Eks JKT48 (UTAMA)
+18\. Celine Ex JKT48 (MAIN)
 
 19\. Mikaela JKT48 (Mikaela Kusjanto)
 
@@ -769,9 +771,11 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 21\. Intan JKT48 (Nur Intan)
 
-22\. Yui Oguri (AKB48)
+22\. Carmen Hearts2Hearts (H2H) 
 
-23\. Endo Rino (Rain Tree)
+23\. Yui Oguri (AKB48)
+
+24\. Endo Rino (Rain Tree)
 
 </details>
 
