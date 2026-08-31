@@ -207,7 +207,7 @@
 
 # 🌐 Connect With Me / Media Sosial
 
-[![GitHub Followers](https://img.shields.io/github/followers/habibmuzakkipiliang?style=for-the-badge&logo=github&color=181717)](https://github.com/habibmuzakkipiliang)
+[![GitHub Followers](https://img.shields.io/badge/followers-88-181717?style=for-the-badge&logo=github)](https://github.com/habibmuzakkipiliang)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/) 
 
