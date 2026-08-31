@@ -10,7 +10,7 @@
 ---
 <br>
 
-<span style="font-size: 23px;">
+<span style="font-size: 25px;">
 
 ### **🌐 Dual-Language Profile (English & Bahasa Indonesia)**
 
