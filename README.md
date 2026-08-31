@@ -10,6 +10,8 @@
 ---
 <br>
 
+<span style="font-size: 17px;">
+
 ### **🌐 Dual-Language Profile (English & Bahasa Indonesia)**
 
 > **⚡ Silicon Valley Vibe / Futuristic & Clean Developer Profile**  
@@ -684,3 +686,5 @@
 <div align="center">
   <sub>Designed with ❤️ and Silicon Valley UI/UX Standards for Habib Muzakki Piliang</sub>
 </div>
+
+</span>
