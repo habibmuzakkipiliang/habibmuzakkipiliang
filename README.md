@@ -2,13 +2,11 @@
 
 ![Habib Muzakki Piliang]( 3.png)
 
-***
-<br>
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=85&pause=1000&width=2500&height=200&lines=%F0%9F%92%BB+Aspiring+Web+Development+%26+Bug+Hunter;%F0%9F%8E%93+D4+Vokasi+Teknik+Informatika;%F0%9F%9A%80+Gen+Z+Core+%28Inti%29;%F0%9F%A4%96+AI+Driver+Coding+Tools;%F0%9F%8E%AD+JKT48+Idol+Enthusiast)](https://git.io/typing-svg)
 
-* * *
-<br>
+---
 
 # **📜 Portfolio Web Historical / Portofolio Web Sejarah**
 
@@ -47,8 +45,7 @@
 
 </details>
 
-***
-<br>
+---
 
 # **👨🏻‍💻 My Main Project Portfolio (Project Portofolio Utama saya)**
 
@@ -73,8 +70,7 @@
  
 </details>
 
-***
-<br>
+---
 
 # **🎖️ Certificates and Award Charters (Sertifikat dan Piagam Penghargaan)**: 
 
@@ -144,8 +140,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **💻 Programming Language Coding (Bahasa Pemrograman atau Coding):**
 
@@ -161,8 +156,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-*  *  *
-<br>
+---
 
 # **🤖 AI Agentic IDE Coding Tools (AI Driver Coding Tools):**
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-32F08C.svg?style=for-the-badge&logo=trae&logoColor=black)
@@ -173,14 +167,12 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ![Kilo Code](https://img.shields.io/badge/Kilo%20Code-F4ED14.svg?style=for-the-badge&logo=codefactor&logoColor=black)
 
-* * *
-<br>
+---
 
 # **🕵 Aspiring Bug Hunter (Bug Hunter OWASP ZAP Tools)** :
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
 
-* * *
-<br>
+---
 
 # **⚙️ Tools (Alat)**:
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -195,8 +187,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5.svg?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
 
-* * *
-<br>
+---
 
 # **🌐 Media Social:**
 
@@ -214,8 +205,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white)](https://linktr.ee/habib_muzakki_piliang)
 
-* * *
-<br>
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -224,26 +214,22 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=habibmuzakkipiliang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* * *
-<br>
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=habibmuzakkipiliang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-* * *
-<br>
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-* * *
-<br>
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=habibmuzakkipiliang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-* * *
-<br>
+---
 
 # **ℹ️ About Me (In English)**:
 
@@ -301,8 +287,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **Aspiring Web Developer**<br>
 </details>
 
-* * *
-<br>
+---
 
 # **ℹ️ Tentang Saya (In Indonesia)**:
 
@@ -360,8 +345,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ **Calon Web Developer**<br>
 </details>
 
-* * *
-<br>
+---
 
 # **</br> Programming language (Coding) currently being studied (Full Stack Developer)** :
 
@@ -380,15 +364,14 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 ✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning)
 
-* * *
+---
 
 → **Only the basics of programming and logic and are not mandatory to learn ::**
 
 ✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.
 </details>
 
-* * *
-<br>
+---
 
 # **</> Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)**:
 
@@ -414,8 +397,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 ✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
 </details>
 
-* * *
-<br>
+---
 
 # **📁 Repository Github Only** :
 
@@ -456,9 +438,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
-
+---
 
 # **👨🏻‍💻 My Projects and Coding Practice (Project saya dan Latihan Coding)**
 
@@ -499,8 +479,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **📜Crafting Senior High School journeys through code (Merajut kisah (SMA) lewat kode)**
 
@@ -531,8 +510,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-***
-<br>
+---
 
 # **📑 Artikel:**
 
@@ -555,8 +533,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 - **Karya Novel di Wattpad**: [MINECRAFT: THE JAVA EXORCIST - KUTUKAN KODE HITAM](https://www.wattpad.com/story/407318949-minecraft-the-java-exorcist-kutukan-kode-hitam)<br>
 </details>
 
-* * *
-<br>
+---
 
 # **My Personal Hobby : Cosplayer Indonesia and Japan Fans (Instagram)**:
 
@@ -583,8 +560,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **My Personal Hobbies : Waifu Girl (Wibu Anime) Enthuasiast**
 
@@ -615,8 +591,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **Hobi Personal : Waifu Girl (Wibu Anime) Enthuasiast**
 
@@ -647,8 +622,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **🎵 My Personal Hobbies & JKT48 Oshi List**
 
@@ -713,8 +687,7 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
 
 # **🎵 Hobi Personal Saya & Daftar Oshi JKT48**
 
@@ -779,5 +752,4 @@ Titles with AI – Ethics and Best Practices on November 22, 2024, By Cakapriset
 
 </details>
 
-* * *
-<br>
+---
