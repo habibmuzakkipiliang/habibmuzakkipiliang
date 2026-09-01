@@ -5,7 +5,7 @@
 ---
 <br>
 
-[![Typing SVG 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&width=3000&height=300&lines=%F0%9F%92%BB+Aspiring+Web+Development+%26+Bug+Hunter;%F0%9F%8E%93+D4+Vokasi+Teknik+Informatika;%F0%9F%9A%80+Gen+Z+Core+%28Inti%29;%F0%9F%92%BB+Tech+Enthusiast+;%F0%9F%A4%96+AI+Driver+Coding+Tools;%F0%9F%93%9C+History+Enthusiast+;%F0%9F%8E%AD+JKT48+Idol+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=250&pause=1000&width=8000&height=400&lines=%F0%9F%92%BB+Aspiring+Web+Development+%26+Bug+Hunter;%F0%9F%8E%93+D4+Vokasi+Teknik+Informatika;%F0%9F%9A%80+Gen+Z+Core+%28Inti%29;%F0%9F%92%BB+Tech+Enthusiast+;%F0%9F%A4%96+AI+Driver+Coding+Tools;%F0%9F%93%9C+History+Enthusiast+;%F0%9F%8E%AD+JKT48+Idol+Enthusiast)](https://git.io/typing-svg)
 
 ---
 <br>
