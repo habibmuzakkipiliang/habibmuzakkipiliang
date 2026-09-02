@@ -69,7 +69,7 @@
 
 - **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-jkt48.netlify.app/)
 
-- **KLIK Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
+- **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
 
 - **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
