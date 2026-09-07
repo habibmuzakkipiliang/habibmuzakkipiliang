@@ -34,6 +34,8 @@
 
 - **👑 JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan**: [KLIK JELAJAH SEJARAH KESULTANAN BANTEN LAMA & KOTA KUNO: Dari Kejayaan Sultan, Arsitek Etnis Tionghoa, hingga Jejak Pecinan yang Terlupakan](https://sejarah-banten-lama-cina-tionghoa.netlify.app/)
 
+- **Dari Baden-Powell Hingga Cicitnya: Sejarah Lengkap Pramuka Dunia & Indonesia — Serta Kunjungan Bersejarah ke Jamnas XII Cibubur 2026**: [KLIK Dari Baden-Powell Hingga Cicitnya: Sejarah Lengkap Pramuka Dunia & Indonesia — Serta Kunjungan Bersejarah ke Jamnas XII Cibubur 2026](https://sejarah-pramuka-dunia-dan-indonesia.netlify.app/)
+
 - **Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor**: [KLIK Misteri & Sejarah Dinasti Tuan Tanah Van Motman: Dari Kejayaan Kolonial Hingga Reruntuhan Mausoleum Bogor](https://sejarah-mausoleum-van-motman-bogor.netlify.app/)
 
 - **Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara**: [KLIK Laksamana Cheng Ho: Sang Penjelajah Laut Terbesar yang Membawa Damai dan Persahabatan ke Nusantara](https://sejarah-cheng-ho-ming-cina-tiongkok.netlify.app/)
