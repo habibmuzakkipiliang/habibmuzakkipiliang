@@ -20,35 +20,6 @@
 ---
 <br>
 
-# 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
-
-<details>
-<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (8 Links)</b></summary>
-<br>
-
-- **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-jkt48.netlify.app/)
-
-- **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
-
-- **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
-
-- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
-
-- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
-
-- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
-
-- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
-
-- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
-
-- **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
-
-</details>
-
----
-<br>
-
 # 📜 Portfolio Web Historical / Portofolio Web Sejarah
 
 <details>
@@ -86,6 +57,36 @@
 - **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
 
 </details>
+
+---
+<br>
+
+# 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
+
+<details>
+<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (8 Links)</b></summary>
+<br>
+
+- **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-jkt48.netlify.app/)
+
+- **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
+
+- **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+
+- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
+
+- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
+
+- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+
+- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+
+- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
+
+- **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
+
+</details>
+
 
 ---
 <br>
