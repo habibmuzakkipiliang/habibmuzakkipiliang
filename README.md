@@ -87,6 +87,8 @@
 
 - **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
 
+- **Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal**: [KLIK Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal](https://cerita-pengalaman-tegal-harkat-negeri.netlify.app/)
+
 </details>
 
 
