@@ -58,6 +58,8 @@
 
 - **PESAWAT TEMPUR PERANG DUNIA KEDUA**: [KLIK DONG PESAWAT TEMPUR PERANG DUNIA KEDUA](https://pesawat-tempur-perang-dunia-kedua-2.netlify.app/)
 
+- **La Pascualita — Boneka Pengantin atau Mayat Nyata? Misteri 96 Tahun di Balik Jendela Toko Meksiko**: [KLIK La Pascualita — Boneka Pengantin atau Mayat Nyata? Misteri 96 Tahun di Balik Jendela Toko Meksiko](https://patung-la-pascualita-meksiko-toko.netlify.app/)
+
 </details>
 
 ---
