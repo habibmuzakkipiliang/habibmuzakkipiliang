@@ -183,9 +183,9 @@
 # **AI Agentic IDE Coding Tools:**
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-32F08C.svg?style=for-the-badge&logo=trae&logoColor=black)
 
-![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-![Cursor AI](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ![Kilo Code](https://img.shields.io/badge/Kilo%20Code-F4ED14.svg?style=for-the-badge&logo=codefactor&logoColor=black)
 
