@@ -99,15 +99,24 @@
 ---
 <br>
 
+
 # 🎖️ Certificates and Award Charters / Sertifikat & Piagam Penghargaan
 
 <details>
 <summary><b>🏆 Expand Certificates & Awards / Buka Daftar Sertifikat (25 List)</b></summary>
 <br>
 
+✅ **Cek Semua Sertifikat nya disini**: [KLIK Cek Semua Sertifikat nya disini](https://github.com/habibmuzakkipiliang/SERTIFIKAT_RESMI_LEGAL_DAN_BERIZIN)
+
+
+### **Pas di Kuliah (Perguruan Tinggi)**: 
+
+1. Sertifikat Harkat Negeri Tegal 
+
+
 ### **Pas di SMA (MAN):**
 
-✅ **Cek Semua Sertifikat nya disini**: [KLIK Cek Semua Sertifikat nya disini](https://github.com/habibmuzakkipiliang/SERTIFIKAT_RESMI_LEGAL_DAN_BERIZIN)
+
 
 1. Piagam Penghargaan Medali Emas : <a href="https://www.instagram.com/p/DVNM7k6k1W8/">RSCI (Ramadhan Science Competition Indonesia)</a> Informatika 2025
 
