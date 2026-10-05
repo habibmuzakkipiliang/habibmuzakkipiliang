@@ -108,10 +108,15 @@
 
 ✅ **Cek Semua Sertifikat nya disini**: [KLIK Cek Semua Sertifikat nya disini](https://github.com/habibmuzakkipiliang/SERTIFIKAT_RESMI_LEGAL_DAN_BERIZIN)
 
+<br>
+
 
 ### **Pas di Kuliah (Perguruan Tinggi)**: 
 
 1. Sertifikat Harkat Negeri Tegal 
+
+
+<br>
 
 
 ### **Pas di SMA (MAN):**
@@ -672,33 +677,35 @@
 
 10. Freya JKT48 (MAIN / UTAMA)
 
-11. Christy JKT48
+11. Trisha JKT48
 
-12. Olla JKT48
+12. Christy JKT48
 
-13. Jessi JKT48
+13. Olla JKT48
 
-14. Fiony JKT48
+14. Jessi JKT48
 
-15. Muthe JKT48
+15. Fiony JKT48
 
-16. Marsha JKT48
+16. Muthe JKT48
 
-17. Eli JKT48
+17. Marsha JKT48
 
-18. Celine Ex JKT48 
+18. Eli JKT48
 
-19. Mikaela JKT48 (Mikaela Kusjanto)
+19. Celine Ex JKT48 
 
-20. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+20. Mikaela JKT48 (Mikaela Kusjanto)
 
-21. Intan JKT48 (Nur Intan)
+21. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-22. Carmen Hearts2Hearts (H2H)
+22. Intan JKT48 (Nur Intan)
 
-23. Yui Oguri (AKB48)
+23. Carmen Hearts2Hearts (H2H)
 
-24. Endo Rino (Rain Tree)
+24. Yui Oguri (AKB48)
+
+25. Endo Rino (Rain Tree)
 
 </details>
 
