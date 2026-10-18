@@ -71,9 +71,9 @@
 <summary><b>🚀 Expand Main Projects / Buka Proyek Utama (8 Links)</b></summary>
 <br>
 
-- **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
+- **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
 
-- **Website Portofolio tentang yang OSHI DAN FANS JKT48**: [KLIK Website Portofolio tentang oshi dan fans JKT48](https://website-portofolio-fans-jkt48.netlify.app/)
+- **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
 
 - **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
 
