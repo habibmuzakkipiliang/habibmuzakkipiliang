@@ -105,7 +105,7 @@
 # 🎖️ Certificates and Award Charters / Sertifikat & Piagam Penghargaan
 
 <details>
-<summary><b>🏆 Expand Certificates & Awards / Buka Daftar Sertifikat (25 List)</b></summary>
+<summary><b>🏆 Expand Certificates & Awards / Buka Daftar Sertifikat (27 List)</b></summary>
 <br>
 
 ✅ **Cek Semua Sertifikat nya disini**: [KLIK Cek Semua Sertifikat nya disini](https://github.com/habibmuzakkipiliang/SERTIFIKAT_RESMI_LEGAL_DAN_BERIZIN)
