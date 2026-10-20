@@ -117,6 +117,8 @@
 
 1. Sertifikat Harkat Negeri Tegal 
 
+2. Sertifikat Gemini AI Certified Student (Google for Education)
+
 
 <br>
 
