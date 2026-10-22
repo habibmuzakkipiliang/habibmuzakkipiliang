@@ -679,39 +679,41 @@
 
 8. Delynn JKT48 (MAIN / UTAMA)
 
-9. Anindya JKT48 (MAIN / UTAMA)
+9. Oline JKT48 (MAIN / UTAMA)
 
 10. Freya JKT48 (MAIN / UTAMA)
 
-11. Trisha JKT48
+11. Anindya JKT48 
 
-12. Christy JKT48
+12. Trisha JKT48
 
-13. Olla JKT48
+13. Christy JKT48
 
-14. Jessi JKT48
+14. Olla JKT48
 
-15. Fiony JKT48
+15. Jessi JKT48
 
-16. Muthe JKT48
+16. Fiony JKT48
 
-17. Marsha JKT48
+17. Muthe JKT48
 
-18. Eli JKT48
+18. Marsha JKT48
 
-19. Celine Ex JKT48 
+19. Eli JKT48
 
-20. Mikaela JKT48 (Mikaela Kusjanto)
+20. Celine Ex JKT48 
 
-21. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+21. Mikaela JKT48 (Mikaela Kusjanto)
 
-22. Intan JKT48 (Nur Intan)
+22. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-23. Carmen Hearts2Hearts (H2H)
+23. Intan JKT48 (Nur Intan)
 
-24. Yui Oguri (AKB48)
+24. Carmen Hearts2Hearts (H2H)
 
-25. Endo Rino (Rain Tree)
+25. Yui Oguri (AKB48)
+
+26. Endo Rino (Rain Tree)
 
 </details>
 
