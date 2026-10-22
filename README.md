@@ -623,27 +623,29 @@
 <summary><b>🌸 Favorite Waifu / Anime Characters (11 Characters)</b></summary>
 <br>
 
-1. Yamada (Behind the Supermarket with You)
+1. Alisa Mikhailovna Kujou (Alya) / Alya Sometimes Hides Her Feelings in Russian
 
-2. Tayama (Behind the Supermarket with You)
+2. Yamada (Behind the Supermarket with You)
 
-3. Reze (The Chainsaw Man)
+3. Tayama (Behind the Supermarket with You)
 
-4. Makima (The Chainsaw Man)
+4. Reze (The Chainsaw Man)
 
-5. Power (The Chainsaw Man)
+5. Makima (The Chainsaw Man)
 
-6. Aerith (Final Fantasy)
+6. Power (The Chainsaw Man)
 
-7. Tifa Lockhart (Final Fantasy)
+7. Aerith (Final Fantasy)
 
-8. Hutao (The Genshin Impact)
+8. Tifa Lockhart (Final Fantasy)
 
-9. Trina Yang (Quantum Heroes: Dinoster)
+9. Hutao (The Genshin Impact)
 
-10. Delby Kay (Quantum Heroes: Dinoster)
+10. Trina Yang (Quantum Heroes: Dinoster)
 
-11. Ejen Kim (Ejen Ali)
+11. Delby Kay (Quantum Heroes: Dinoster)
+
+12. Ejen Kim (Ejen Ali)
 
 </details>
 
