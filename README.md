@@ -620,7 +620,7 @@
 # 4. My Personal Hobbies : Waifu Girl (Wibu Anime) Enthuasiast
 
 <details>
-<summary><b>🌸 Favorite Waifu / Anime Characters (11 Characters)</b></summary>
+<summary><b>🌸 Favorite Waifu / Anime Characters (12 Characters)</b></summary>
 <br>
 
 1. Alisa Mikhailovna Kujou (Alya) / Alya Sometimes Hides Her Feelings in Russian
@@ -655,7 +655,7 @@
 # 5. 🎵 My Personal Hobbies & JKT48 Oshi List
 
 <details>
-<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (24 Members)</b></summary>
+<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (26 Members)</b></summary>
 <br>
 
 #### **Idol Enthusiast (Wota & Fans)**
