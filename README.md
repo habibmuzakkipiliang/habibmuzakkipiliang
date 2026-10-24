@@ -706,19 +706,13 @@
 
 20. Celine Ex JKT48 
 
-21. Jemima JKT48 (Jemima Evodie)
+21. Jemima JKT48 (Jemima Evodie Mayra Lijaya)
 
 22. Mikaela JKT48 (Mikaela Kusjanto)
 
-23. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+24. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-24. Intan JKT48 (Nur Intan)
-
-25. Carmen Hearts2Hearts (H2H)
-
-26. Yui Oguri (AKB48)
-
-27. Endo Rino (Rain Tree)
+25. Intan JKT48 (Nur Intan)
 
 </details>
 
