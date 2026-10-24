@@ -666,53 +666,53 @@
 
 **Oshi (Favorite Member / Member Favorit) List:**
 
-1. Gracie JKT48 (MAIN / UTAMA)
+1\. Gracie JKT48 (MAIN / UTAMA)
 
-2. Aralie JKT48 (MAIN / UTAMA)
+2\. Aralie JKT48 (MAIN / UTAMA)
 
-3. Lily JKT48 (MAIN / UTAMA)
+3\. Lily JKT48 (MAIN / UTAMA)
 
-4. Michie JKT48 (MAIN / UTAMA)
+4\. Michie JKT48 (MAIN / UTAMA)
 
-5. Fritzy JKT48 (MAIN / UTAMA)
+5\. Fritzy JKT48 (MAIN / UTAMA)
 
-6. Lana JKT48 (MAIN / UTAMA)
+6\. Lana JKT48 (MAIN / UTAMA)
 
-7. Erine JKT48 (MAIN / UTAMA)
+7\. Erine JKT48 (MAIN / UTAMA)
 
-8. Delynn JKT48 (MAIN / UTAMA)
+8\. Delynn JKT48 (MAIN / UTAMA)
 
-9. Oline JKT48 (MAIN / UTAMA)
+9\. Oline JKT48 (MAIN / UTAMA)
 
-10. Freya JKT48 (MAIN / UTAMA)
+10\. Freya JKT48 (MAIN / UTAMA)
 
-11. Anindya JKT48 
+11\. Anindya JKT48 
 
-12. Trisha JKT48
+12\. Trisha JKT48
 
-13. Christy JKT48
+13\. Christy JKT48
 
-14. Olla JKT48
+14\. Olla JKT48
 
-15. Jessi JKT48
+15\. Jessi JKT48
 
-16. Fiony JKT48
+16\. Fiony JKT48
 
-17. Muthe JKT48
+17\. Muthe JKT48
 
-18. Marsha JKT48
+18\. Marsha JKT48
 
-19. Eli JKT48
+19\. Eli JKT48
 
-20. Celine Ex JKT48 
+20\. Celine Ex JKT48 
 
-21. Jemima JKT48 (Jemima Evodie Mayra Lijaya)
+21\. Jemima JKT48 (Jemima Evodie)
 
-22. Mikaela JKT48 (Mikaela Kusjanto)
+22\. Mikaela JKT48 (Mikaela Kusjanto)
 
-24. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+24\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-25. Intan JKT48 (Nur Intan)
+25\. Intan JKT48 (Nur Intan)
 
 </details>
 
