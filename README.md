@@ -708,7 +708,7 @@
 
 20\. Celine Ex JKT48 
 
-21\. Jemima JKT48 (Jemima Evodie)
+21\. Jemima JKT48 (Jemima Evodie Mayra Lijaya)
 
 22\. Mikaela JKT48 (Mikaela Kusjanto)
 
