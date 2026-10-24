@@ -662,7 +662,7 @@
 <br>
 
 #### **Idol Enthusiast (Wota & Fans)**
-#### **Favorite Idol Group:** JKT48 | AKB48 | Hearts2Hearts (H2H) | Rain Tree
+#### **Favorite Idol Group:** JKT48
 
 **Oshi (Favorite Member / Member Favorit) List:**
 
