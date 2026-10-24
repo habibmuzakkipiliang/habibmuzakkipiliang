@@ -658,7 +658,7 @@
 # 5. 🎵 My Personal Hobbies & JKT48 Oshi List
 
 <details>
-<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (27 Members)</b></summary>
+<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (25 Members)</b></summary>
 <br>
 
 #### **Idol Enthusiast (Wota & Fans)**
