@@ -658,7 +658,7 @@
 # 5. 🎵 My Personal Hobbies & JKT48 Oshi List
 
 <details>
-<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (26 Members)</b></summary>
+<summary><b>🎤 Idol Enthusiast & JKT48 Oshi List (27 Members)</b></summary>
 <br>
 
 #### **Idol Enthusiast (Wota & Fans)**
@@ -706,17 +706,19 @@
 
 20. Celine Ex JKT48 
 
-21. Mikaela JKT48 (Mikaela Kusjanto)
+21. Jemima JKT48 (Jemima Evodie)
 
-22. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+22. Mikaela JKT48 (Mikaela Kusjanto)
 
-23. Intan JKT48 (Nur Intan)
+23. Ekin JKT48 (Jacqueline Immanuela Jonathan)
 
-24. Carmen Hearts2Hearts (H2H)
+24. Intan JKT48 (Nur Intan)
 
-25. Yui Oguri (AKB48)
+25. Carmen Hearts2Hearts (H2H)
 
-26. Endo Rino (Rain Tree)
+26. Yui Oguri (AKB48)
+
+27. Endo Rino (Rain Tree)
 
 </details>
 
