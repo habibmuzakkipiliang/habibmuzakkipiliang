@@ -107,7 +107,7 @@
 # 🎖️ Certificates and Award Charters / Sertifikat & Piagam Penghargaan
 
 <details>
-<summary><b>🏆 Expand Certificates & Awards / Buka Daftar Sertifikat (27 List)</b></summary>
+<summary><b>🏆 Expand Certificates & Awards / Buka Daftar Sertifikat (28 List)</b></summary>
 <br>
 
 ✅ **Cek Semua Sertifikat nya disini**: [KLIK Cek Semua Sertifikat nya disini](https://github.com/habibmuzakkipiliang/SERTIFIKAT_RESMI_LEGAL_DAN_BERIZIN)
@@ -121,6 +121,7 @@
 
 2. Sertifikat Gemini AI Certified Student (Google for Education)
 
+3. Serfifikat Apresiasi Merdeka Siber, Webinar : Breaking into CyberSecurity in the Era AI
 
 <br>
 
