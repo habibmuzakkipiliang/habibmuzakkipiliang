@@ -286,7 +286,9 @@
 
 ✅ **Harkat Negeri University of Tegal, Center Java**  
 
-✅ **D4 Vocational Informatics Engineering**  
+✅ **D4 Vocational Informatics Engineering** 
+
+✅ **1st-Semester Students (Freshmen) for the year 2026**
 
 ✅ **I prefer hands-on coding practice over rigid, boring academic theory.**  
 
@@ -343,6 +345,8 @@
 ✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**  
 
 ✅ **D4 Vokasi Teknik Informatika**  
+
+✅ **Mahasiswa Semester 1 (Mahasiswa Baru) tahun 2026**
 
 ✅ **lebih suka praktek Coding secara aplikatif daripada teori akademisi kaku yang bosenin**  
 
