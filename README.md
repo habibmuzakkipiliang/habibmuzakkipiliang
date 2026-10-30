@@ -199,6 +199,8 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ---
 <br>
 
@@ -411,13 +413,12 @@
 
 ✅ Basic Python (Basic Programming, Back End Web, AI, and Machine Learning) 
 
-✅ Basic TypeScript
+✅ Basic TypeScript (Front End Web)
+
+✅ Basic C++ (to take part in the 2025 city-level national science olympiad in the field of Informatics using basic C++)
 
 ---
 <br>
-
-→ **Only the basics of programming and logic and are not mandatory to learn:**  
-✅ Basic C++ (Specifically for the 2025 Informatics OSN-K and basic coding logic.)
 
 </details>
 
@@ -437,12 +438,12 @@
 
 ✅ Python dasar (Dasar Pemrograman, Back End Web, AI, dan Machine Learning)  
 
-✅ TypeScript dasar
+✅ TypeScript dasar (Front End Web)
+
+✅ C++ dasar (untuk mengikut olimpiade sains nasional tingkat kota bidang Informatika tahun 2025 dengan menggunakan C++ dasar)
 
 ---
-
-→ **Hanya dasar logika saja dan tidak wajib dipelajari :**  
-✅ C++ dasar (Khusus untuk OSN-K Informatika 2025 dan logika coding dasar.)
+<br>
 
 </details>
 
