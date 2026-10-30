@@ -308,7 +308,7 @@
 
 ✅ **Part of Generation Z (Gen Z Core)**  
 
-✅ **School status (2023–2026): From 2025 to 2026 (with schooling ending on April 15, 2026), the student is officially a day student commuting from home, having ceased living in the boarding facility after two years (2023–2025) of residence at the MAN 2 Kota Serang dormitory.**  
+✅ **School status (2023–2026): From 2025 to 2026 (through the end of the schooling period, with official graduation on April 15, 2026), the student held the status of a "day student" (commuting from home)—a permitted arrangement—having previously resided in the boarding school at MAN 2 Kota Serang for two years (2023–2025)..**  
 
 ✅ **Enjoys Computer Science and Social Studies**  
 
@@ -364,7 +364,7 @@
 
 ✅ **Bagian dari Generasi Z (Gen Z Inti)**  
 
-✅ **Status sekolah dulu (2023 - 2026) : saat di tahun 2025 hingga 2026 (akhir sekolah pada 15 april 2026) adalah sebagai Anak PP (pulang pergi) yang legal dari rumah, dan tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama MAN 2 KOTA SERANG**.  
+✅ **Status sekolah dulu (2023 - 2026) : saat di tahun 2025 hingga 2026 (akhir sekolah dan lulus sekolah resmi pada 15 april 2026) adalah sebagai Anak PP (pulang pergi) yang legal dari rumah, dan tidak lagi tinggal di boarding school (asrama) setelah 2 tahun (2023 - 2025) menetap di asrama MAN 2 KOTA SERANG**.  
 
 ✅ **Menyukai mapel Informatika (Komputer) dan IPS**  
 
