@@ -290,7 +290,7 @@
 
 ✅ **Clan (Marga): Piliang**
 
-✅ **Harkat Negeri University of Tegal, Tegal City Center Java**  
+✅ **Harkat Negeri University of Tegal, Tegal City, Center Java**  
 
 ✅ **D4 Vocational Informatics Engineering** 
 
