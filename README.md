@@ -284,13 +284,13 @@
 <summary><b>🇺🇸 About Me (In English)</b></summary>
 <br>
 
-✅ **Full name: Habib Muzakki**
+✅ **Full name (real name): Habib Muzakki**
 
 ✅ **Nickname: Habib**
 
 ✅ **Clan (Marga): Piliang**
 
-✅ **Harkat Negeri University of Tegal, Center Java**  
+✅ **Harkat Negeri University of Tegal, Tegal City Center Java**  
 
 ✅ **D4 Vocational Informatics Engineering** 
 
@@ -348,13 +348,13 @@
 <summary><b>🇮🇩 Tentang Saya (In Indonesia)</b></summary>
 <br>
 
-✅ **Nama lengkap : Habib Muzakki**
+✅ **Nama lengkap (nama asli) : Habib Muzakki**
 
 ✅ **Nama panggilan : Habib**
 
 ✅ **Marga : Piliang**
 
-✅ **Universitas Harkat Negeri Tegal, Jawa Tengah**  
+✅ **Universitas Harkat Negeri Tegal, Kota Tegal, Jawa Tengah**  
 
 ✅ **D4 Vokasi Teknik Informatika**  
 
