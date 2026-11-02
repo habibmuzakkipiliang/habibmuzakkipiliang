@@ -85,11 +85,11 @@
 
 - **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
 
-- **Website Awal (Portfolio)**: [Klik https://habibmuzakkipiliang.github.io](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+- **Website Awal (Portfolio)**: [Klik Habib Muzakki Piliang | Portofolio Digital & Web Developer](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
 
-- **Website Portfolio Futuristik**: [Klik Vercel 1](https://website-portofolio-baru-futuristik.vercel.app/)
+- **Website Portfolio Futuristik**: [Klik Habib Muzakki Piliang | Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-portofolio-baru-futuristik.vercel.app/)
 
-- **Website Futuristik Baru V2**: [Klik Vercel Baru 2](https://website-futuristik-versi-2-baru.vercel.app/)
+- **Website Futuristik Baru V2**: [Klik Habib Muzakki Piliang | Portfolio Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-futuristik-versi-2-baru.vercel.app/)
 
 - **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
 
