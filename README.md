@@ -244,6 +244,10 @@
 
 [![GitHub Followers 1](https://img.shields.io/github/followers/habibmuzakkipiliang?style=for-the-badge&logo=github&color=181717)](https://github.com/habibmuzakkipiliang)
 
+[![committers.top badge](https://user-badge.committers.top/indonesia/USERNAME.svg)](https://user-badge.committers.top/indonesia/USERNAME)
+
+[![committers.top badge](https://org-badge.committers.top/indonesia/ORGNAME.svg)](https://org-badge.committers.top/indonesia/ORGNAME)
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/habib_muzakki12)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-muzakki-piliang-15978b315/) 
