@@ -123,6 +123,8 @@
 
 3. Serfifikat Apresiasi Merdeka Siber, Webinar : Breaking into CyberSecurity in the Era AI
 
+4. Sertifikat Gemini AI, menyelesaikan Pelatihan Mendesain Pembelajaran Inovatif dengan AI Gemini + Data nilai dan tugasnya
+
 <br>
 
 
