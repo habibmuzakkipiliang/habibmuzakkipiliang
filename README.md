@@ -75,6 +75,8 @@
 
 - **Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi**: [Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi](https://website-portofolio-fans-jkt48.netlify.app/) 
 
+- **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini**: [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://teknologi-ai-coding-komputer-dunia.netlify.app/)
+
 - **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
 
 - **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
