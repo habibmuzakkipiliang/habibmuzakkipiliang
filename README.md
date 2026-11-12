@@ -73,9 +73,9 @@
 
 - **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
 
-- **Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi**: [Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi](https://website-portofolio-fans-jkt48.netlify.app/) 
+- **Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi**: [Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi](https://website-portofolio-fans-jkt48.netlify.app/)
 
-- **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini**: [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://teknologi-ai-coding-komputer-dunia.netlify.app/)
+- **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini** : [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://evolusi-coding-ai-komputer-teknologi.netlify.app/)
 
 - **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
 
