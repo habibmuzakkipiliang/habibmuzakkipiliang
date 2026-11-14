@@ -23,7 +23,7 @@
 # 📜 Portfolio Web Historical / Portofolio Web Sejarah
 
 <details>
-<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (15 Links)</b></summary>
+<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (14 Links)</b></summary>
 <br>
 
 - **Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane**: [KLIK Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane](https://sejarah-cina-benteng-tangerang.vercel.app/)
@@ -72,7 +72,7 @@
 # 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
 
 <details>
-<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (8 Links)</b></summary>
+<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (19 Links)</b></summary>
 <br>
 
 - **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
