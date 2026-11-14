@@ -28,6 +28,8 @@
 
 - **Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane**: [KLIK Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane](https://sejarah-cina-benteng-tangerang.vercel.app/)
 
+- **Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia**: [KLIK Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia](https://sejarah-cina-jakarta-indonesia.vercel.app/)
+
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
 - **MARAWA — Bendera Pusaka & Identitas Abadi Orang Minang (Orang Padang) dari Dulu hingga Sekarang**: [KLIK MARAWA — Bendera Pusaka & Identitas Abadi Orang Minang (Orang Padang) dari Dulu hingga Sekarang](https://sejarah-bendera-marawa-minangkabau.netlify.app/)
