@@ -26,7 +26,7 @@
 <summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (21 Links)</b></summary>
 <br>
 
-**Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem**: [KLIK Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem](https://sejarah-cina-lasem-jawa-tengah.vercel.app/)
+- **Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem**: [KLIK Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem](https://sejarah-cina-lasem-jawa-tengah.vercel.app/)
 
 - **Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane**: [KLIK Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane](https://sejarah-cina-benteng-tangerang.vercel.app/)
 
