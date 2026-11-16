@@ -28,7 +28,9 @@
 
 - **Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane**: [KLIK Website Sejarah & Portofolio Cina Benteng Ketika Tionghoa & Nusantara Melebur di Tepi Cisadane](https://sejarah-cina-benteng-tangerang.vercel.app/)
 
-- **Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia**: [KLIK Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia](https://sejarah-cina-jakarta-indonesia.vercel.app/)
+- **Website Sejarah & Portofolio Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia**: [KLIK Website Sejarah & Portofolio Orang Cina Jakarta Kisah Seru dari Tepi Ciliwung ke Pecinan Terbesar Dunia](https://sejarah-cina-jakarta-indonesia.vercel.app/)
+
+- **Jejak Emas Tionghoa (Cina) Surabaya : Merajut Harmoni & Denyut Ekonomi Kota Pahlawan**:[KLIK Jejak Emas Tionghoa (Cina) Surabaya : Merajut Harmoni & Denyut Ekonomi Kota Pahlawan](https://sejarah-cina-surabaya-dan-perkembangan-nya.vercel.app/)
 
 - **Sejarah Kedatangan Tionghoa (Chindo - Cina) ke Indonesia**: [KLIK Sejarah Kedatangan Tionghoa (Chindo) ke Indonesia](https://sejarah-kedatangan-cina-ke-indonesia.netlify.app/)
 
