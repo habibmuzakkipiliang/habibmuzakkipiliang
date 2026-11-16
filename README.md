@@ -23,7 +23,7 @@
 # 📜 Portfolio Web Historical / Portofolio Web Sejarah
 
 <details>
-<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (14 Links)</b></summary>
+<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (21 Links)</b></summary>
 <br>
 
 **Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem**: [KLIK Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem](https://sejarah-cina-lasem-jawa-tengah.vercel.app/)
