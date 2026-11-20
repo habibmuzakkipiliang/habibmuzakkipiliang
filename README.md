@@ -85,6 +85,8 @@
 
 - **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini** : [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://evolusi-coding-ai-komputer-teknologi.netlify.app/)
 
+- **Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal**: [KLIK Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal](https://cerita-saya-invofest-harkat-negeri.netlify.app/)
+
 - **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
 
 - **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
