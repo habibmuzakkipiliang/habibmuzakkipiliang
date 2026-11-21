@@ -220,7 +220,8 @@
 ---
 <br>
 
-# **🤖 AI Agentic Driven IDE Coding Tools (for Future and Now):**
+# **🤖 AI Agentic Driven IDE Coding Tools (for Future and Now, and now focus foundation coding):**
+
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-32F08C.svg?style=for-the-badge&logo=trae&logoColor=black)
 
 ![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
