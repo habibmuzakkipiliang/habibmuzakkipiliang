@@ -220,10 +220,12 @@
 ---
 <br>
 
-# **AI Agentic IDE Coding Tools:**
+# **🤖 AI Agentic Driven IDE Coding Tools (for Future and Now):**
 ![Trae AI](https://img.shields.io/badge/Trae%20AI-32F08C.svg?style=for-the-badge&logo=trae&logoColor=black)
 
 ![Antigravity AI](https://img.shields.io/badge/Antigravity%20AI-7C3AED?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+![Qoder AI](https://img.shields.io/badge/Qoder%20AI-80C776.svg?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
