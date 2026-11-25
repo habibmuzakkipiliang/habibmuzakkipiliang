@@ -20,6 +20,48 @@
 ---
 <br>
 
+
+# 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
+
+<details>
+<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (19 Links)</b></summary>
+<br>
+
+- **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
+
+- **Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi**: [Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi](https://website-portofolio-fans-jkt48.netlify.app/)
+
+- **Website Awal (Portfolio)**: [Klik Habib Muzakki Piliang | Portofolio Digital & Web Developer](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
+
+- **Website Portfolio Futuristik**: [Klik Habib Muzakki Piliang | Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-portofolio-baru-futuristik.vercel.app/)
+
+- **Website Futuristik Baru V2**: [Klik Habib Muzakki Piliang | Portfolio Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-futuristik-versi-2-baru.vercel.app/)
+
+- **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
+
+- **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini** : [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://evolusi-coding-ai-komputer-teknologi.netlify.app/)
+
+- **Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal**: [KLIK Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal](https://cerita-saya-invofest-harkat-negeri.netlify.app/)
+
+- **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
+
+- **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+
+- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
+
+- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
+
+- **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
+
+- **Cerita pengalaman bakar-bakaran di Tegal**: [KLIK Cerita pengalaman bakar-bakaran di Tegal](https://cerita-pengalaman-bakar-bakaran-tegal.netlify.app/)
+
+- **Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal**: [KLIK Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal](https://cerita-pengalaman-tegal-harkat-negeri.netlify.app/)
+
+</details>
+
+---
+<br>
+
 # 📜 Portfolio Web Historical / Portofolio Web Sejarah
 
 <details>
@@ -72,49 +114,6 @@
 
 ---
 <br>
-
-# 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
-
-<details>
-<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (19 Links)</b></summary>
-<br>
-
-- **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
-
-- **Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi**: [Habib Muzakki Piliang | Portofolio Front-End JKT48 Wota, Fans, Oshi](https://website-portofolio-fans-jkt48.netlify.app/)
-
-- **Website Awal (Portfolio)**: [Klik Habib Muzakki Piliang | Portofolio Digital & Web Developer](https://habibmuzakkipiliang.github.io/website_portofolio_awal/)
-
-- **Website Portfolio Futuristik**: [Klik Habib Muzakki Piliang | Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-portofolio-baru-futuristik.vercel.app/)
-
-- **Website Futuristik Baru V2**: [Klik Habib Muzakki Piliang | Portfolio Mahasiswa Universitas Harkat Negeri Tegal, Jurusan D4 Vokasi Teknik Informatika | Tech Enthusiast & Developer](https://website-futuristik-versi-2-baru.vercel.app/)
-
-- **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
-
-- **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini** : [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://evolusi-coding-ai-komputer-teknologi.netlify.app/)
-
-- **Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal**: [KLIK Cerita Pengalaman saya tentang Ikut Acara Infovest (Informatics Vocational Festival) Universitas Harkat Negeri Kota Tegal](https://cerita-saya-invofest-harkat-negeri.netlify.app/)
-
-- **Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026**: [KLIK Cerita Pengalaman saya selama mengikuti kegiatan makrab funcamp 2026](https://cerita-funcamp-makrab-d4-informatika.netlify.app/)
-
-- **Laporan OWASP ZAP Bug Hunter**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
-
-- **WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP**: [KLIK DONG WEBSITE DAFTAR VERSI ANDROID SMARTPHONE HP](https://daftar-versi-android-teknologi-hp.vercel.app/)
-
-- **WEBSITE FANDOM THE SMURFS 2021 SENDIRI**: [KLIK WEBSITE FANDOM THE SMURFS 2021 SENDIRI](https://website-fandom-the-smurfs-2021.netlify.app/)
-
-- **Extension VS Code Coding Modern 2026**: [KLIK Extension VS Code Coding Modern 2026](https://extension-vs-code-coding-modern-2026.netlify.app/)
-
-- **Cerita pengalaman bakar-bakaran di Tegal**: [KLIK Cerita pengalaman bakar-bakaran di Tegal](https://cerita-pengalaman-bakar-bakaran-tegal.netlify.app/)
-
-- **Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal**: [KLIK Cerita awal masuk ke Tegal, Acara PKKMB, Universitas Harkat Negeri Tegal](https://cerita-pengalaman-tegal-harkat-negeri.netlify.app/)
-
-</details>
-
-
----
-<br>
-
 
 # 🎖️ Certificates and Award Charters / Sertifikat & Piagam Penghargaan
 
