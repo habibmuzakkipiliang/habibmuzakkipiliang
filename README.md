@@ -39,7 +39,7 @@
 
 - **Game Gunship Battle 3D Android Website Fandom & Portfolio**: [KLIK Game Gunship Battle 3D Android Fandom & Portfolio](https://website-fandom-gunship-battle-3d.netlify.app/)
 
-- **Laporan OWASP ZAP Bug Hunter Cyber Security**: [Klik Laporan OWASP ZAP Bug Hunter](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
+- **Laporan OWASP ZAP Bug Hunter Cyber Security**: [Klik Laporan OWASP ZAP Bug Hunter Cyber Security](https://github.com/habibmuzakkipiliang/Laporan_OWASP_ZAP_CyberSecurity_Hacker_Hacking_Bug_Hunter_Bug_Bounty)
 
 - **🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini** : [KLIK 🚀 Perjalanan Dunia Teknologi: Dari Komputer Pertama Hingga AI Masa Kini](https://evolusi-coding-ai-komputer-teknologi.netlify.app/)
 
