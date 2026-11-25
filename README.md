@@ -68,6 +68,8 @@
 <summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (21 Links)</b></summary>
 <br>
 
+- **WEBSITE Sejarah Kedatangan Tionghoa (Chindo – Cina) ke Indonesia (REMAKE)**: [Sejarah Kedatangan Tionghoa (Chindo – Cina) ke Indonesia (REMAKE)](https://sejarah-kedatangan-chindo-tionghoa.vercel.app/)
+
 - **Website Sejarah & Portofolio Jejak Emas Tionghoa (Cina) Surabaya : Merajut Harmoni & Denyut Ekonomi Kota Pahlawan**:[KLIK Website Sejarah & Portofolio Jejak Emas Tionghoa (Cina) Surabaya : Merajut Harmoni & Denyut Ekonomi Kota Pahlawan](https://sejarah-cina-surabaya-dan-perkembangan-nya.vercel.app/)
 
 - **Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem**: [KLIK Website Sejarah & Portofolio Tiongkok Kecil di Pesisir Jawa Harmoni, Warisan & Akulturasi Lasem](https://sejarah-cina-lasem-jawa-tengah.vercel.app/)
