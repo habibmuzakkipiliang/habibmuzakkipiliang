@@ -362,6 +362,8 @@
 
 </details>
 
+<br>
+
 <details>
 <summary><b>🇮🇩 Tentang Saya (In Indonesia)</b></summary>
 <br>
@@ -455,6 +457,8 @@
 <br>
 
 </details>
+
+<br>
 
 <details>
 <summary><b>🇮🇩 Bahasa pemrograman (Coding) yang saat ini sedang dipelajari (Full Stack Developer)</b></summary>
