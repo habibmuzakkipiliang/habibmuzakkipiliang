@@ -236,8 +236,8 @@
 ---
 <br>
 
-# **Security & Bug Hunting:**
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white)
+# **Cyber Security & Bug Hunting:**
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 <br>
