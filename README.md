@@ -728,37 +728,39 @@
 
 9\. Oline JKT48 (MAIN / UTAMA)
 
-10\. Freya JKT48 (MAIN / UTAMA)
+10\. Nayla JKT48 atau Nayla Suji (MAIN / UTAMA)
 
-11\. Christy JKT48
+11\. Freya JKT48 
 
-12\. Kathrina (Atin) JKT48
+12\. Christy JKT48
 
-13\. Anindya JKT48 
+13\. Kathrina (Atin) JKT48
 
-14\. Trisha JKT48
+14\. Anindya JKT48 
 
-15\. Olla JKT48
+15\. Trisha JKT48
 
-16\. Jessi JKT48
+16\. Olla JKT48
 
-17\. Fiony JKT48
+17\. Jessi JKT48
 
-18\. Muthe JKT48
+18\. Fiony JKT48
 
-19\. Marsha JKT48
+19\. Muthe JKT48
 
-20\. Eli JKT48
+20\. Marsha JKT48
 
-21\. Celine Ex JKT48 
+21\. Eli JKT48
 
-22\. Jemima JKT48 (Jemima Evodie Mayra Lijaya)
+22\. Celine Ex JKT48 
 
-23\. Mikaela JKT48 (Mikaela Kusjanto)
+23\. Jemima JKT48 (Jemima Evodie Mayra Lijaya)
 
-24\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+24\. Mikaela JKT48 (Mikaela Kusjanto)
 
-25\. Intan JKT48 (Nur Intan)
+25\. Ekin JKT48 (Jacqueline Immanuela Jonathan)
+
+26\. Intan JKT48 (Nur Intan)
 
 </details>
 
