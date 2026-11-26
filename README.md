@@ -231,12 +231,12 @@
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-![Kilo Code](https://img.shields.io/badge/Kilo%20Code-F4ED14.svg?style=for-the-badge&logo=codefactor&logoColor=black)
+[![Kilo Code](https://img.shields.io/badge/Kilo_Code-AI_Coding_Assistant-000000?style=for-the-badge&logo=githubcopilot&logoColor=00E5FF)](https://kilocode.ai)
 
 ---
 <br>
 
-# **Cyber Security & Bug Hunting (OWASP ZAP):**
+# **Cyber Security & Bug Hunting or Bug Bounty (OWASP ZAP):**
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
