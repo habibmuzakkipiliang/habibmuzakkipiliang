@@ -231,7 +231,7 @@
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-[![Kilo Code](https://img.shields.io/badge/Kilo_Code-AI_Coding_Assistant-000000?style=for-the-badge&logo=githubcopilot&logoColor=00E5FF)](https://kilocode.ai)
+![Built with Kilo Code](https://img.shields.io/badge/Built_with-Kilo_Code-FFDC03?style=for-the-badge&labelColor=0A0A0A&logo=visualstudiocode&logoColor=FFDC03)
 
 ---
 <br>
