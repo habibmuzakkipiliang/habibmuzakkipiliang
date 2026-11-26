@@ -65,7 +65,7 @@
 # 📜 Portfolio Web Historical / Portofolio Web Sejarah
 
 <details>
-<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (21 Links)</b></summary>
+<summary><b>🔍 Expand Historical Web Projects / Buka Portofolio Sejarah (22 Links)</b></summary>
 <br>
 
 - **WEBSITE Sejarah Kedatangan Tionghoa (Chindo – Cina) ke Indonesia (REMAKE)**: [Sejarah Kedatangan Tionghoa (Chindo – Cina) ke Indonesia (REMAKE)](https://sejarah-kedatangan-chindo-tionghoa.vercel.app/)
