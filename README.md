@@ -24,8 +24,10 @@
 # 👨🏻‍💻 My Main Project Portfolio / Portofolio Proyek Utama
 
 <details>
-<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (19 Links)</b></summary>
+<summary><b>🚀 Expand Main Projects / Buka Proyek Utama (20 Links)</b></summary>
 <br>
+
+- **Penghormatan untuk Lily JKT48 (Hillary Abigail) Member 1000 Wajah, Soft-Spoken Gamer, & Kenangan Indah di JKT48**: [KLIK Penghormatan untuk Lily JKT48 (Hillary Abigail) Member 1000 Wajah, Soft-Spoken Gamer, & Kenangan Indah di JKT48](https://website-portfolio-dan-lily-jkt48.vercel.app/)
 
 - **Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026**: [KLIK Habib Muzakki Piliang | Portofolio Fans JKT48 & Sejarah JKT48 2011-2026](https://website-portofolio-jkt48-oshi-wota.netlify.app/)
 
